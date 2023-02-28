@@ -40,6 +40,22 @@ namespace _071_Array_Flex
                 }
                 Console.WriteLine();
             }
+
+            int[][] arrNum2 = new int[2][]
+            {
+                new int[]{0, 1},
+                new int[3] { 0, 1, 2 }};
+
+            Console.WriteLine("=== arrNum2 ===");
+
+            foreach (int[] arr in arrNum2)
+            {
+                foreach(int data in arr)
+                {
+                    Console.Write("   {0}", data);
+                }
+                Console.WriteLine();
+            }
         }
     }
 }

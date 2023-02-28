@@ -1,0 +1,7 @@
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\071_Array_Flex\bin\Debug\071_Array_Flex.exe.config
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\071_Array_Flex\bin\Debug\071_Array_Flex.exe
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\071_Array_Flex\bin\Debug\071_Array_Flex.pdb
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\071_Array_Flex\obj\Debug\071_Array_Flex.csproj.AssemblyReference.cache
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\071_Array_Flex\obj\Debug\071_Array_Flex.csproj.CoreCompileInputs.cache
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\071_Array_Flex\obj\Debug\071_Array_Flex.exe
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\071_Array_Flex\obj\Debug\071_Array_Flex.pdb
