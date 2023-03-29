@@ -50,6 +50,21 @@ namespace _074_Array_Clear
                 }
                 Console.WriteLine();
             }
+
+            Console.WriteLine("-----------------------------");
+
+            int[,,] arrMULTI1 = new int[,,]
+            {
+                {{0, 1}, {2, 3}, {4, 5}},
+                {{6, 7}, {8, 9}, {10, 11}},
+                {{12, 13}, {8, 9}, {10, 11}},
+                {{12, 13}, {14, 15}, {16, 17}},
+                {{13, 14}, {14,15}, {16, 17}}
+            };
+
+            Console.WriteLine("arrMulti1.Length: " + arrMULTI1.Length);
+
+
         }
     }
 }
