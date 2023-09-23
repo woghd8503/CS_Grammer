@@ -1,0 +1,7 @@
+D:\Studying\C#_Unity\CloneC#\C#_Grammar\001_HelloWorld\bin\Debug\001_HelloWorld.exe.config
+D:\Studying\C#_Unity\CloneC#\C#_Grammar\001_HelloWorld\bin\Debug\001_HelloWorld.exe
+D:\Studying\C#_Unity\CloneC#\C#_Grammar\001_HelloWorld\bin\Debug\001_HelloWorld.pdb
+D:\Studying\C#_Unity\CloneC#\C#_Grammar\001_HelloWorld\obj\Debug\001_HelloWorld.csproj.AssemblyReference.cache
+D:\Studying\C#_Unity\CloneC#\C#_Grammar\001_HelloWorld\obj\Debug\001_HelloWorld.csproj.CoreCompileInputs.cache
+D:\Studying\C#_Unity\CloneC#\C#_Grammar\001_HelloWorld\obj\Debug\001_HelloWorld.exe
+D:\Studying\C#_Unity\CloneC#\C#_Grammar\001_HelloWorld\obj\Debug\001_HelloWorld.pdb
