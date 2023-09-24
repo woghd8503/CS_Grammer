@@ -1,0 +1,14 @@
+D:\Studying\C#_Unity\CloneC#\002_HelloWorld\bin\Debug\net6.0\002_HelloWorld.exe
+D:\Studying\C#_Unity\CloneC#\002_HelloWorld\bin\Debug\net6.0\002_HelloWorld.deps.json
+D:\Studying\C#_Unity\CloneC#\002_HelloWorld\bin\Debug\net6.0\002_HelloWorld.runtimeconfig.json
+D:\Studying\C#_Unity\CloneC#\002_HelloWorld\bin\Debug\net6.0\002_HelloWorld.dll
+D:\Studying\C#_Unity\CloneC#\002_HelloWorld\bin\Debug\net6.0\002_HelloWorld.pdb
+D:\Studying\C#_Unity\CloneC#\002_HelloWorld\obj\Debug\net6.0\002_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying\C#_Unity\CloneC#\002_HelloWorld\obj\Debug\net6.0\002_HelloWorld.AssemblyInfoInputs.cache
+D:\Studying\C#_Unity\CloneC#\002_HelloWorld\obj\Debug\net6.0\002_HelloWorld.AssemblyInfo.cs
+D:\Studying\C#_Unity\CloneC#\002_HelloWorld\obj\Debug\net6.0\002_HelloWorld.csproj.CoreCompileInputs.cache
+D:\Studying\C#_Unity\CloneC#\002_HelloWorld\obj\Debug\net6.0\002_HelloWorld.dll
+D:\Studying\C#_Unity\CloneC#\002_HelloWorld\obj\Debug\net6.0\refint\002_HelloWorld.dll
+D:\Studying\C#_Unity\CloneC#\002_HelloWorld\obj\Debug\net6.0\002_HelloWorld.pdb
+D:\Studying\C#_Unity\CloneC#\002_HelloWorld\obj\Debug\net6.0\002_HelloWorld.genruntimeconfig.cache
+D:\Studying\C#_Unity\CloneC#\002_HelloWorld\obj\Debug\net6.0\ref\002_HelloWorld.dll

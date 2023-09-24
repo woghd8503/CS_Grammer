@@ -1,0 +1,4 @@
+D:\Studying\C#_Unity\CloneC#\obj\Debug\net6.0\C#_Grammar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying\C#_Unity\CloneC#\obj\Debug\net6.0\C#_Grammar.AssemblyInfoInputs.cache
+D:\Studying\C#_Unity\CloneC#\obj\Debug\net6.0\C#_Grammar.AssemblyInfo.cs
+D:\Studying\C#_Unity\CloneC#\obj\Debug\net6.0\C#_Grammar.csproj.CoreCompileInputs.cache
