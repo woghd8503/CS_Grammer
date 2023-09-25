@@ -1,0 +1,14 @@
+D:\Studying\C#_Unity\CloneC#\003_HellowWorld3\bin\Debug\net6.0\003_HellowWorld3.exe
+D:\Studying\C#_Unity\CloneC#\003_HellowWorld3\bin\Debug\net6.0\003_HellowWorld3.deps.json
+D:\Studying\C#_Unity\CloneC#\003_HellowWorld3\bin\Debug\net6.0\003_HellowWorld3.runtimeconfig.json
+D:\Studying\C#_Unity\CloneC#\003_HellowWorld3\bin\Debug\net6.0\003_HellowWorld3.dll
+D:\Studying\C#_Unity\CloneC#\003_HellowWorld3\bin\Debug\net6.0\003_HellowWorld3.pdb
+D:\Studying\C#_Unity\CloneC#\003_HellowWorld3\obj\Debug\net6.0\003_HellowWorld3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying\C#_Unity\CloneC#\003_HellowWorld3\obj\Debug\net6.0\003_HellowWorld3.AssemblyInfoInputs.cache
+D:\Studying\C#_Unity\CloneC#\003_HellowWorld3\obj\Debug\net6.0\003_HellowWorld3.AssemblyInfo.cs
+D:\Studying\C#_Unity\CloneC#\003_HellowWorld3\obj\Debug\net6.0\003_HellowWorld3.csproj.CoreCompileInputs.cache
+D:\Studying\C#_Unity\CloneC#\003_HellowWorld3\obj\Debug\net6.0\003_HellowWorld3.dll
+D:\Studying\C#_Unity\CloneC#\003_HellowWorld3\obj\Debug\net6.0\refint\003_HellowWorld3.dll
+D:\Studying\C#_Unity\CloneC#\003_HellowWorld3\obj\Debug\net6.0\003_HellowWorld3.pdb
+D:\Studying\C#_Unity\CloneC#\003_HellowWorld3\obj\Debug\net6.0\003_HellowWorld3.genruntimeconfig.cache
+D:\Studying\C#_Unity\CloneC#\003_HellowWorld3\obj\Debug\net6.0\ref\003_HellowWorld3.dll
