@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Studying\\C#_Unity\\CloneC#\\002_HelloWorld\\002_HelloWorld.csproj",
-      "projectName": "002_HelloWorld",
-      "projectPath": "D:\\Studying\\C#_Unity\\CloneC#\\002_HelloWorld\\002_HelloWorld.csproj",
+      "projectUniqueName": "D:\\Studying\\C#_Unity\\CloneC#\\002_HelloWorld\\002_HelloWorld2.csproj",
+      "projectName": "002_HelloWorld2",
+      "projectPath": "D:\\Studying\\C#_Unity\\CloneC#\\002_HelloWorld\\002_HelloWorld2.csproj",
       "packagesPath": "C:\\Users\\woghd\\.nuget\\packages\\",
       "outputPath": "D:\\Studying\\C#_Unity\\CloneC#\\002_HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
