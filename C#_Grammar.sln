@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_HelloWorld", "001_Hello
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_HelloWorld", "002_HelloWorld\002_HelloWorld.csproj", "{A9A3C2D7-DAAF-4725-A2D7-F07DE787BAB6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_HellowWorld3", "003_HellowWorld3\003_HellowWorld3.csproj", "{B512A75D-E41A-4E16-A21F-00F68714D285}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003_HelloWorld3", "003_HellowWorld3\003_HelloWorld3.csproj", "{B512A75D-E41A-4E16-A21F-00F68714D285}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
