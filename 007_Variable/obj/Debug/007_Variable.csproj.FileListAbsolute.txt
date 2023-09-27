@@ -1,0 +1,7 @@
+D:\Studying\C#_Unity\CloneC#\007_Variable\bin\Debug\007_Variable.exe.config
+D:\Studying\C#_Unity\CloneC#\007_Variable\bin\Debug\007_Variable.exe
+D:\Studying\C#_Unity\CloneC#\007_Variable\bin\Debug\007_Variable.pdb
+D:\Studying\C#_Unity\CloneC#\007_Variable\obj\Debug\007_Variable.csproj.AssemblyReference.cache
+D:\Studying\C#_Unity\CloneC#\007_Variable\obj\Debug\007_Variable.csproj.CoreCompileInputs.cache
+D:\Studying\C#_Unity\CloneC#\007_Variable\obj\Debug\007_Variable.exe
+D:\Studying\C#_Unity\CloneC#\007_Variable\obj\Debug\007_Variable.pdb
