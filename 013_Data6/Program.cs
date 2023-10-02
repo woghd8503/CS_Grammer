@@ -4,6 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/*-----------------------------------------------------------------------------
+ * Name: _013_Data6
+ * DESC: 소수점 데이터형의 기초, 리터럴 접미사(f(F), m(M))
+-----------------------------------------------------------------------------*/
 namespace _013_Data6
 {
     internal class Program
