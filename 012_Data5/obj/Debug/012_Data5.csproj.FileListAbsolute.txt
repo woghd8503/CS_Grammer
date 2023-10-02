@@ -1,0 +1,7 @@
+D:\Studying\C#_Unity\CloneC#\012_Data5\bin\Debug\012_Data5.exe.config
+D:\Studying\C#_Unity\CloneC#\012_Data5\bin\Debug\012_Data5.exe
+D:\Studying\C#_Unity\CloneC#\012_Data5\bin\Debug\012_Data5.pdb
+D:\Studying\C#_Unity\CloneC#\012_Data5\obj\Debug\012_Data5.csproj.AssemblyReference.cache
+D:\Studying\C#_Unity\CloneC#\012_Data5\obj\Debug\012_Data5.csproj.CoreCompileInputs.cache
+D:\Studying\C#_Unity\CloneC#\012_Data5\obj\Debug\012_Data5.exe
+D:\Studying\C#_Unity\CloneC#\012_Data5\obj\Debug\012_Data5.pdb
