@@ -4,6 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/*-----------------------------------------------------------------------------
+ * Name: _014_Data7
+ * DESC: char형, string형 기초
+-----------------------------------------------------------------------------*/
 namespace _014_Data7
 {
     internal class Program
