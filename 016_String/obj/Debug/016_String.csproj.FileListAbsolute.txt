@@ -1,0 +1,7 @@
+D:\Studying\C#_Unity\CloneC#\016_String\bin\Debug\016_String.exe.config
+D:\Studying\C#_Unity\CloneC#\016_String\bin\Debug\016_String.exe
+D:\Studying\C#_Unity\CloneC#\016_String\bin\Debug\016_String.pdb
+D:\Studying\C#_Unity\CloneC#\016_String\obj\Debug\016_String.csproj.AssemblyReference.cache
+D:\Studying\C#_Unity\CloneC#\016_String\obj\Debug\016_String.csproj.CoreCompileInputs.cache
+D:\Studying\C#_Unity\CloneC#\016_String\obj\Debug\016_String.exe
+D:\Studying\C#_Unity\CloneC#\016_String\obj\Debug\016_String.pdb
