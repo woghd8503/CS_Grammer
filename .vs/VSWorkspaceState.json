@@ -1,10 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\002_HelloWorld",
     "\\002_HelloWorld\\bin",
-    "\\003_HellowWorld3"
+    "\\003_HellowWorld3",
+    "\\007_Variable"
   ],
-  "SelectedNode": "\\C#_Grammar.sln",
+  "SelectedNode": "\\007_Variable\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
