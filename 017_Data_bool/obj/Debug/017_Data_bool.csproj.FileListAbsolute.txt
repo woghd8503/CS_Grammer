@@ -1,0 +1,7 @@
+D:\Studying\C#_Unity\CloneC#\017_Data_bool\bin\Debug\017_Data_bool.exe.config
+D:\Studying\C#_Unity\CloneC#\017_Data_bool\bin\Debug\017_Data_bool.exe
+D:\Studying\C#_Unity\CloneC#\017_Data_bool\bin\Debug\017_Data_bool.pdb
+D:\Studying\C#_Unity\CloneC#\017_Data_bool\obj\Debug\017_Data_bool.csproj.AssemblyReference.cache
+D:\Studying\C#_Unity\CloneC#\017_Data_bool\obj\Debug\017_Data_bool.csproj.CoreCompileInputs.cache
+D:\Studying\C#_Unity\CloneC#\017_Data_bool\obj\Debug\017_Data_bool.exe
+D:\Studying\C#_Unity\CloneC#\017_Data_bool\obj\Debug\017_Data_bool.pdb
