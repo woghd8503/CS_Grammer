@@ -1,0 +1,7 @@
+D:\Studying\C#_Unity\CloneC#\020_Data_enum2\bin\Debug\020_Data_enum2.exe.config
+D:\Studying\C#_Unity\CloneC#\020_Data_enum2\bin\Debug\020_Data_enum2.exe
+D:\Studying\C#_Unity\CloneC#\020_Data_enum2\bin\Debug\020_Data_enum2.pdb
+D:\Studying\C#_Unity\CloneC#\020_Data_enum2\obj\Debug\020_Data_enum2.csproj.AssemblyReference.cache
+D:\Studying\C#_Unity\CloneC#\020_Data_enum2\obj\Debug\020_Data_enum2.csproj.CoreCompileInputs.cache
+D:\Studying\C#_Unity\CloneC#\020_Data_enum2\obj\Debug\020_Data_enum2.exe
+D:\Studying\C#_Unity\CloneC#\020_Data_enum2\obj\Debug\020_Data_enum2.pdb
