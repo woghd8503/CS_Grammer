@@ -1,0 +1,7 @@
+D:\Studying\C#_Unity\CloneC#\025_Data_ToString\bin\Debug\025_Data_ToString.exe.config
+D:\Studying\C#_Unity\CloneC#\025_Data_ToString\bin\Debug\025_Data_ToString.exe
+D:\Studying\C#_Unity\CloneC#\025_Data_ToString\bin\Debug\025_Data_ToString.pdb
+D:\Studying\C#_Unity\CloneC#\025_Data_ToString\obj\Debug\025_Data_ToString.csproj.AssemblyReference.cache
+D:\Studying\C#_Unity\CloneC#\025_Data_ToString\obj\Debug\025_Data_ToString.csproj.CoreCompileInputs.cache
+D:\Studying\C#_Unity\CloneC#\025_Data_ToString\obj\Debug\025_Data_ToString.exe
+D:\Studying\C#_Unity\CloneC#\025_Data_ToString\obj\Debug\025_Data_ToString.pdb
