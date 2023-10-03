@@ -1,0 +1,7 @@
+D:\Studying\C#_Unity\CloneC#\021_Data_nullable\bin\Debug\021_Data_nullable.exe.config
+D:\Studying\C#_Unity\CloneC#\021_Data_nullable\bin\Debug\021_Data_nullable.exe
+D:\Studying\C#_Unity\CloneC#\021_Data_nullable\bin\Debug\021_Data_nullable.pdb
+D:\Studying\C#_Unity\CloneC#\021_Data_nullable\obj\Debug\021_Data_nullable.csproj.AssemblyReference.cache
+D:\Studying\C#_Unity\CloneC#\021_Data_nullable\obj\Debug\021_Data_nullable.csproj.CoreCompileInputs.cache
+D:\Studying\C#_Unity\CloneC#\021_Data_nullable\obj\Debug\021_Data_nullable.exe
+D:\Studying\C#_Unity\CloneC#\021_Data_nullable\obj\Debug\021_Data_nullable.pdb
