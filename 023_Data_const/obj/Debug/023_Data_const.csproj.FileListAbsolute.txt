@@ -1,0 +1,7 @@
+D:\Studying\C#_Unity\CloneC#\023_Data_const\bin\Debug\023_Data_const.exe.config
+D:\Studying\C#_Unity\CloneC#\023_Data_const\bin\Debug\023_Data_const.exe
+D:\Studying\C#_Unity\CloneC#\023_Data_const\bin\Debug\023_Data_const.pdb
+D:\Studying\C#_Unity\CloneC#\023_Data_const\obj\Debug\023_Data_const.csproj.AssemblyReference.cache
+D:\Studying\C#_Unity\CloneC#\023_Data_const\obj\Debug\023_Data_const.csproj.CoreCompileInputs.cache
+D:\Studying\C#_Unity\CloneC#\023_Data_const\obj\Debug\023_Data_const.exe
+D:\Studying\C#_Unity\CloneC#\023_Data_const\obj\Debug\023_Data_const.pdb
