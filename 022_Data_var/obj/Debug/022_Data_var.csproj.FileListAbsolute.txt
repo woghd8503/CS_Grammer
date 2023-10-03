@@ -1,0 +1,7 @@
+D:\Studying\C#_Unity\CloneC#\022_Data_var\bin\Debug\022_Data_var.exe.config
+D:\Studying\C#_Unity\CloneC#\022_Data_var\bin\Debug\022_Data_var.exe
+D:\Studying\C#_Unity\CloneC#\022_Data_var\bin\Debug\022_Data_var.pdb
+D:\Studying\C#_Unity\CloneC#\022_Data_var\obj\Debug\022_Data_var.csproj.AssemblyReference.cache
+D:\Studying\C#_Unity\CloneC#\022_Data_var\obj\Debug\022_Data_var.csproj.CoreCompileInputs.cache
+D:\Studying\C#_Unity\CloneC#\022_Data_var\obj\Debug\022_Data_var.exe
+D:\Studying\C#_Unity\CloneC#\022_Data_var\obj\Debug\022_Data_var.pdb

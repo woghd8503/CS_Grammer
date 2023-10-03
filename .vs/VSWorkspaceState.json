@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\002_HelloWorld\\bin",
-    "\\009_Data2"
+    "\\009_Data2",
+    "\\017_Data_bool"
   ],
-  "SelectedNode": "\\009_Data2\\Program.cs",
+  "SelectedNode": "\\017_Data_bool\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
