@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "022_Data_var", "022_Data_va
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "023_Data_const", "023_Data_const\023_Data_const.csproj", "{285B403F-991D-40E3-B72D-660C99EB3CF3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "024_Data_cast", "024_Data_cast\024_Data_cast.csproj", "{5FF02CD2-0A44-476B-ACBB-6AD5A60803FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{285B403F-991D-40E3-B72D-660C99EB3CF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{285B403F-991D-40E3-B72D-660C99EB3CF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{285B403F-991D-40E3-B72D-660C99EB3CF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FF02CD2-0A44-476B-ACBB-6AD5A60803FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FF02CD2-0A44-476B-ACBB-6AD5A60803FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FF02CD2-0A44-476B-ACBB-6AD5A60803FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FF02CD2-0A44-476B-ACBB-6AD5A60803FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

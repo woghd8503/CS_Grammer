@@ -1,0 +1,7 @@
+D:\Studying\C#_Unity\CloneC#\024_Data_cast\bin\Debug\024_Data_cast.exe.config
+D:\Studying\C#_Unity\CloneC#\024_Data_cast\bin\Debug\024_Data_cast.exe
+D:\Studying\C#_Unity\CloneC#\024_Data_cast\bin\Debug\024_Data_cast.pdb
+D:\Studying\C#_Unity\CloneC#\024_Data_cast\obj\Debug\024_Data_cast.csproj.AssemblyReference.cache
+D:\Studying\C#_Unity\CloneC#\024_Data_cast\obj\Debug\024_Data_cast.csproj.CoreCompileInputs.cache
+D:\Studying\C#_Unity\CloneC#\024_Data_cast\obj\Debug\024_Data_cast.exe
+D:\Studying\C#_Unity\CloneC#\024_Data_cast\obj\Debug\024_Data_cast.pdb
