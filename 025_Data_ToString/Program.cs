@@ -25,6 +25,9 @@ namespace _025_Data_ToString
             Console.WriteLine("a.ToString(): {0}", strA);
             Console.WriteLine("b.ToString(): {0}", strB);
             Console.WriteLine("c.ToString(): {0}", strC);
+
+            bool? tell = null;
+            if(tell?? == true)
         }
     }
 }

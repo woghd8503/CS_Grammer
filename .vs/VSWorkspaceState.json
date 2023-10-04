@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\009_Data2",
-    "\\017_Data_bool"
+    "\\017_Data_bool",
+    "\\021_Data_nullable"
   ],
-  "SelectedNode": "\\017_Data_bool\\Program.cs",
+  "SelectedNode": "\\021_Data_nullable\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
