@@ -1,0 +1,7 @@
+D:\Studying\C#_Unity\CloneC#\028_Data_Reference\bin\Debug\028_Data_Reference.exe.config
+D:\Studying\C#_Unity\CloneC#\028_Data_Reference\bin\Debug\028_Data_Reference.exe
+D:\Studying\C#_Unity\CloneC#\028_Data_Reference\bin\Debug\028_Data_Reference.pdb
+D:\Studying\C#_Unity\CloneC#\028_Data_Reference\obj\Debug\028_Data_Reference.csproj.AssemblyReference.cache
+D:\Studying\C#_Unity\CloneC#\028_Data_Reference\obj\Debug\028_Data_Reference.csproj.CoreCompileInputs.cache
+D:\Studying\C#_Unity\CloneC#\028_Data_Reference\obj\Debug\028_Data_Reference.exe
+D:\Studying\C#_Unity\CloneC#\028_Data_Reference\obj\Debug\028_Data_Reference.pdb
