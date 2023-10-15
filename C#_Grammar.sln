@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "025_Data_ToString", "025_Da
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "026_ Data_Parse", "026_ Data_Parse\026_ Data_Parse.csproj", "{645FFC65-1561-4451-B918-C48182456121}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "027_Data_Convert", "027_Data_Convert\027_Data_Convert.csproj", "{D8D9F4E9-1BE5-40C0-99E0-9F975484B738}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{645FFC65-1561-4451-B918-C48182456121}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{645FFC65-1561-4451-B918-C48182456121}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{645FFC65-1561-4451-B918-C48182456121}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8D9F4E9-1BE5-40C0-99E0-9F975484B738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8D9F4E9-1BE5-40C0-99E0-9F975484B738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8D9F4E9-1BE5-40C0-99E0-9F975484B738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8D9F4E9-1BE5-40C0-99E0-9F975484B738}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

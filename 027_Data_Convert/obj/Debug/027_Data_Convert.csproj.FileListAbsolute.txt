@@ -1,0 +1,7 @@
+D:\Studying\C#_Unity\CloneC#\027_Data_Convert\bin\Debug\027_Data_Convert.exe.config
+D:\Studying\C#_Unity\CloneC#\027_Data_Convert\bin\Debug\027_Data_Convert.exe
+D:\Studying\C#_Unity\CloneC#\027_Data_Convert\bin\Debug\027_Data_Convert.pdb
+D:\Studying\C#_Unity\CloneC#\027_Data_Convert\obj\Debug\027_Data_Convert.csproj.AssemblyReference.cache
+D:\Studying\C#_Unity\CloneC#\027_Data_Convert\obj\Debug\027_Data_Convert.csproj.CoreCompileInputs.cache
+D:\Studying\C#_Unity\CloneC#\027_Data_Convert\obj\Debug\027_Data_Convert.exe
+D:\Studying\C#_Unity\CloneC#\027_Data_Convert\obj\Debug\027_Data_Convert.pdb
