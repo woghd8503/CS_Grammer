@@ -1,0 +1,7 @@
+D:\Studying\C#_Unity\CloneC#\031_ReadLine2\bin\Debug\031_ReadLine2.exe.config
+D:\Studying\C#_Unity\CloneC#\031_ReadLine2\bin\Debug\031_ReadLine2.exe
+D:\Studying\C#_Unity\CloneC#\031_ReadLine2\bin\Debug\031_ReadLine2.pdb
+D:\Studying\C#_Unity\CloneC#\031_ReadLine2\obj\Debug\031_ReadLine2.csproj.AssemblyReference.cache
+D:\Studying\C#_Unity\CloneC#\031_ReadLine2\obj\Debug\031_ReadLine2.csproj.CoreCompileInputs.cache
+D:\Studying\C#_Unity\CloneC#\031_ReadLine2\obj\Debug\031_ReadLine2.exe
+D:\Studying\C#_Unity\CloneC#\031_ReadLine2\obj\Debug\031_ReadLine2.pdb

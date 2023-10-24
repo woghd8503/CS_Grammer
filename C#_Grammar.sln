@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "029_Data_boxing", "029_Data
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30_ReadLine", "30_ReadLine\30_ReadLine.csproj", "{93532E6F-3032-4FFA-9702-E15C2ADF9819}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "031_ReadLine2", "031_ReadLine2\031_ReadLine2.csproj", "{3C12BA56-44A0-4936-B3C5-E3D946C248BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{93532E6F-3032-4FFA-9702-E15C2ADF9819}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93532E6F-3032-4FFA-9702-E15C2ADF9819}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93532E6F-3032-4FFA-9702-E15C2ADF9819}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C12BA56-44A0-4936-B3C5-E3D946C248BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C12BA56-44A0-4936-B3C5-E3D946C248BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C12BA56-44A0-4936-B3C5-E3D946C248BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C12BA56-44A0-4936-B3C5-E3D946C248BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
