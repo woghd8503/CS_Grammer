@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _30_ReadLine
+namespace _030_ReadLine
 {
     internal class Program
     {
