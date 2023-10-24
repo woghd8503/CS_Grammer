@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "028_Data_Reference", "028_D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "029_Data_boxing", "029_Data_boxing\029_Data_boxing.csproj", "{54A5E2E2-2028-42D7-AB60-54F8BCCF331F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30_ReadLine", "30_ReadLine\30_ReadLine.csproj", "{93532E6F-3032-4FFA-9702-E15C2ADF9819}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{54A5E2E2-2028-42D7-AB60-54F8BCCF331F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54A5E2E2-2028-42D7-AB60-54F8BCCF331F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54A5E2E2-2028-42D7-AB60-54F8BCCF331F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93532E6F-3032-4FFA-9702-E15C2ADF9819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93532E6F-3032-4FFA-9702-E15C2ADF9819}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93532E6F-3032-4FFA-9702-E15C2ADF9819}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93532E6F-3032-4FFA-9702-E15C2ADF9819}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

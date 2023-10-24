@@ -1,0 +1,7 @@
+D:\Studying\C#_Unity\CloneC#\30_ReadLine\bin\Debug\30_ReadLine.exe.config
+D:\Studying\C#_Unity\CloneC#\30_ReadLine\bin\Debug\30_ReadLine.exe
+D:\Studying\C#_Unity\CloneC#\30_ReadLine\bin\Debug\30_ReadLine.pdb
+D:\Studying\C#_Unity\CloneC#\30_ReadLine\obj\Debug\30_ReadLine.csproj.AssemblyReference.cache
+D:\Studying\C#_Unity\CloneC#\30_ReadLine\obj\Debug\30_ReadLine.csproj.CoreCompileInputs.cache
+D:\Studying\C#_Unity\CloneC#\30_ReadLine\obj\Debug\30_ReadLine.exe
+D:\Studying\C#_Unity\CloneC#\30_ReadLine\obj\Debug\30_ReadLine.pdb
