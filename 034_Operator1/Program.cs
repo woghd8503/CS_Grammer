@@ -30,5 +30,6 @@ namespace _034_Operator1
             int f = (a + b) % 2;
             Console.WriteLine("f: " + f);
         }
+
     }
 }
