@@ -1,0 +1,7 @@
+D:\Studying\C#_Unity\CloneC#\037_Operator4\bin\Debug\037_Operator4.exe.config
+D:\Studying\C#_Unity\CloneC#\037_Operator4\bin\Debug\037_Operator4.exe
+D:\Studying\C#_Unity\CloneC#\037_Operator4\bin\Debug\037_Operator4.pdb
+D:\Studying\C#_Unity\CloneC#\037_Operator4\obj\Debug\037_Operator4.csproj.AssemblyReference.cache
+D:\Studying\C#_Unity\CloneC#\037_Operator4\obj\Debug\037_Operator4.csproj.CoreCompileInputs.cache
+D:\Studying\C#_Unity\CloneC#\037_Operator4\obj\Debug\037_Operator4.exe
+D:\Studying\C#_Unity\CloneC#\037_Operator4\obj\Debug\037_Operator4.pdb
