@@ -1,0 +1,7 @@
+D:\Studying\C#_Unity\CloneC#\041_Branch\bin\Debug\041_Branch.exe.config
+D:\Studying\C#_Unity\CloneC#\041_Branch\bin\Debug\041_Branch.exe
+D:\Studying\C#_Unity\CloneC#\041_Branch\bin\Debug\041_Branch.pdb
+D:\Studying\C#_Unity\CloneC#\041_Branch\obj\Debug\041_Branch.csproj.AssemblyReference.cache
+D:\Studying\C#_Unity\CloneC#\041_Branch\obj\Debug\041_Branch.csproj.CoreCompileInputs.cache
+D:\Studying\C#_Unity\CloneC#\041_Branch\obj\Debug\041_Branch.exe
+D:\Studying\C#_Unity\CloneC#\041_Branch\obj\Debug\041_Branch.pdb
