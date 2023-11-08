@@ -91,6 +91,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "043_Operator_Branch3", "043
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "044_Operator_switch", "044_Operator_switch\044_Operator_switch.csproj", "{582BB8D0-49E2-455C-B485-7217FC5B4C97}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "045_Operator_switch", "045_Operator_switch\045_Operator_switch.csproj", "{00E66B8A-A7D4-4361-8F3F-B8A56D284162}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -273,6 +275,10 @@ Global
 		{582BB8D0-49E2-455C-B485-7217FC5B4C97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{582BB8D0-49E2-455C-B485-7217FC5B4C97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{582BB8D0-49E2-455C-B485-7217FC5B4C97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00E66B8A-A7D4-4361-8F3F-B8A56D284162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00E66B8A-A7D4-4361-8F3F-B8A56D284162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00E66B8A-A7D4-4361-8F3F-B8A56D284162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00E66B8A-A7D4-4361-8F3F-B8A56D284162}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

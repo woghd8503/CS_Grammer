@@ -1,0 +1,7 @@
+D:\Studying\C#_Unity\CloneC#\045_Operator_switch\bin\Debug\045_Operator_switch.exe.config
+D:\Studying\C#_Unity\CloneC#\045_Operator_switch\bin\Debug\045_Operator_switch.exe
+D:\Studying\C#_Unity\CloneC#\045_Operator_switch\bin\Debug\045_Operator_switch.pdb
+D:\Studying\C#_Unity\CloneC#\045_Operator_switch\obj\Debug\045_Operator_switch.csproj.AssemblyReference.cache
+D:\Studying\C#_Unity\CloneC#\045_Operator_switch\obj\Debug\045_Operator_switch.csproj.CoreCompileInputs.cache
+D:\Studying\C#_Unity\CloneC#\045_Operator_switch\obj\Debug\045_Operator_switch.exe
+D:\Studying\C#_Unity\CloneC#\045_Operator_switch\obj\Debug\045_Operator_switch.pdb
