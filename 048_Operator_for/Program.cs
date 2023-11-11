@@ -1,32 +1,27 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Schema;
 /*-----------------------------------------------------------------------------
- * Name: _048_Operator_do_while
- * DESC: do~while
+* Name: _048_Operator_for
+* DESC: enum데이터 선언 후 switch문 사용하기
 -----------------------------------------------------------------------------*/
-namespace _047_Operator_do_while
+namespace _048_Operator_for
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            int a = 0;
-            int num;
             int total = 0;
 
-            Console.Write("0부터 몇까지 더할까요?");
-            num = int.Parse(Console.ReadLine());
-
-            do
+            for (int i = 0; i <= 10; i++)
             {
-                total = total + a++;
-            } while (a <= num);
+                total += i;
+            }
 
-            Console.WriteLine("total: {0}", total);
+            Console.WriteLine("total:  " + total);
         }
     }
 }
