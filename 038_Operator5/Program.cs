@@ -36,7 +36,7 @@ namespace _038_Operator5
             result = !result;
             Console.WriteLine("!result: {0}", result);
             result = !result;
-            Console.WriteLine("!result: {0}", result);
+            Console.WriteLine("!result: {0}", result); 
         }
     }
 }
