@@ -1,0 +1,7 @@
+D:\Studying\C#_Unity\CloneC#\046_Operator_While\bin\Debug\046_Operator_While.exe.config
+D:\Studying\C#_Unity\CloneC#\046_Operator_While\bin\Debug\046_Operator_While.exe
+D:\Studying\C#_Unity\CloneC#\046_Operator_While\bin\Debug\046_Operator_While.pdb
+D:\Studying\C#_Unity\CloneC#\046_Operator_While\obj\Debug\046_Operator_While.csproj.AssemblyReference.cache
+D:\Studying\C#_Unity\CloneC#\046_Operator_While\obj\Debug\046_Operator_While.csproj.CoreCompileInputs.cache
+D:\Studying\C#_Unity\CloneC#\046_Operator_While\obj\Debug\046_Operator_While.exe
+D:\Studying\C#_Unity\CloneC#\046_Operator_While\obj\Debug\046_Operator_While.pdb
