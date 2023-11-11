@@ -3,6 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+/*-----------------------------------------------------------------------------
+ * Name: _047_Operator_while
+ * DESC: while기초
+-----------------------------------------------------------------------------*/
 
 namespace _046_Operator_While
 {
