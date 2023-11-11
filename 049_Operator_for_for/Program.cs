@@ -3,7 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+/*-----------------------------------------------------------------------------
+ * Name: _050_Operator_for_for
+ * DESC: 중첩 for
+-----------------------------------------------------------------------------*/
 namespace _049_Operator_for_for
 {
     internal class Program

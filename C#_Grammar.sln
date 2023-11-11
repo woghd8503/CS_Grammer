@@ -101,6 +101,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "048_Operator_for", "048_Ope
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "049_Operator_for_for", "049_Operator_for_for\049_Operator_for_for.csproj", "{3395C50B-22AD-4E3C-A782-0A002300A6D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "050_Operator_while(true)", "050_Operator_while(true)\050_Operator_while(true).csproj", "{88FE07E3-6ED0-4605-A130-99C5F79161BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -303,6 +305,10 @@ Global
 		{3395C50B-22AD-4E3C-A782-0A002300A6D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3395C50B-22AD-4E3C-A782-0A002300A6D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3395C50B-22AD-4E3C-A782-0A002300A6D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88FE07E3-6ED0-4605-A130-99C5F79161BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88FE07E3-6ED0-4605-A130-99C5F79161BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88FE07E3-6ED0-4605-A130-99C5F79161BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88FE07E3-6ED0-4605-A130-99C5F79161BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
