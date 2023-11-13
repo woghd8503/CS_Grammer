@@ -1,0 +1,7 @@
+D:\Studying\C#_Unity\CloneC#\051_Operator_break\bin\Debug\051_Operator_break.exe.config
+D:\Studying\C#_Unity\CloneC#\051_Operator_break\bin\Debug\051_Operator_break.exe
+D:\Studying\C#_Unity\CloneC#\051_Operator_break\bin\Debug\051_Operator_break.pdb
+D:\Studying\C#_Unity\CloneC#\051_Operator_break\obj\Debug\051_Operator_break.csproj.AssemblyReference.cache
+D:\Studying\C#_Unity\CloneC#\051_Operator_break\obj\Debug\051_Operator_break.csproj.CoreCompileInputs.cache
+D:\Studying\C#_Unity\CloneC#\051_Operator_break\obj\Debug\051_Operator_break.exe
+D:\Studying\C#_Unity\CloneC#\051_Operator_break\obj\Debug\051_Operator_break.pdb
