@@ -1,0 +1,7 @@
+D:\Studying\C#_Unity\CloneC#\053_Operator_goto\bin\Debug\053_Operator_goto.exe.config
+D:\Studying\C#_Unity\CloneC#\053_Operator_goto\bin\Debug\053_Operator_goto.exe
+D:\Studying\C#_Unity\CloneC#\053_Operator_goto\bin\Debug\053_Operator_goto.pdb
+D:\Studying\C#_Unity\CloneC#\053_Operator_goto\obj\Debug\053_Operator_goto.csproj.AssemblyReference.cache
+D:\Studying\C#_Unity\CloneC#\053_Operator_goto\obj\Debug\053_Operator_goto.csproj.CoreCompileInputs.cache
+D:\Studying\C#_Unity\CloneC#\053_Operator_goto\obj\Debug\053_Operator_goto.exe
+D:\Studying\C#_Unity\CloneC#\053_Operator_goto\obj\Debug\053_Operator_goto.pdb
