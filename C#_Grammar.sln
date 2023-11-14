@@ -105,6 +105,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "050_Operator_while(true)", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "051_Operator_break", "051_Operator_break\051_Operator_break.csproj", "{4AA136F6-2F82-4EF1-A8AA-13E865247B0C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "052_Operator_continue", "052_Operator_continue\052_Operator_continue.csproj", "{C3CCE636-9C31-4CA3-8BBF-BC9566FC7D4A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -315,6 +317,10 @@ Global
 		{4AA136F6-2F82-4EF1-A8AA-13E865247B0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AA136F6-2F82-4EF1-A8AA-13E865247B0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AA136F6-2F82-4EF1-A8AA-13E865247B0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3CCE636-9C31-4CA3-8BBF-BC9566FC7D4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3CCE636-9C31-4CA3-8BBF-BC9566FC7D4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3CCE636-9C31-4CA3-8BBF-BC9566FC7D4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3CCE636-9C31-4CA3-8BBF-BC9566FC7D4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
