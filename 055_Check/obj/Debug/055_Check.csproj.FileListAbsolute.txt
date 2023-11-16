@@ -1,0 +1,7 @@
+D:\Studying\C#_Unity\CloneC#\055_Check\bin\Debug\055_Check.exe.config
+D:\Studying\C#_Unity\CloneC#\055_Check\bin\Debug\055_Check.exe
+D:\Studying\C#_Unity\CloneC#\055_Check\bin\Debug\055_Check.pdb
+D:\Studying\C#_Unity\CloneC#\055_Check\obj\Debug\055_Check.csproj.AssemblyReference.cache
+D:\Studying\C#_Unity\CloneC#\055_Check\obj\Debug\055_Check.csproj.CoreCompileInputs.cache
+D:\Studying\C#_Unity\CloneC#\055_Check\obj\Debug\055_Check.exe
+D:\Studying\C#_Unity\CloneC#\055_Check\obj\Debug\055_Check.pdb
