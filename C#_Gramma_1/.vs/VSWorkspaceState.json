@@ -3,8 +3,9 @@
     "",
     "\\009_Data2",
     "\\017_Data_bool",
-    "\\021_Data_nullable"
+    "\\021_Data_nullable",
+    "\\056_Check"
   ],
-  "SelectedNode": "\\021_Data_nullable\\Program.cs",
+  "SelectedNode": "\\056_Check\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

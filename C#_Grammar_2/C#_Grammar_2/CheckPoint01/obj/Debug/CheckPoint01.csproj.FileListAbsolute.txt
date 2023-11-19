@@ -1,0 +1,7 @@
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\CheckPoint01\bin\Debug\CheckPoint01.exe.config
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\CheckPoint01\bin\Debug\CheckPoint01.exe
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\CheckPoint01\bin\Debug\CheckPoint01.pdb
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\CheckPoint01\obj\Debug\CheckPoint01.csproj.AssemblyReference.cache
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\CheckPoint01\obj\Debug\CheckPoint01.csproj.CoreCompileInputs.cache
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\CheckPoint01\obj\Debug\CheckPoint01.exe
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\CheckPoint01\obj\Debug\CheckPoint01.pdb
