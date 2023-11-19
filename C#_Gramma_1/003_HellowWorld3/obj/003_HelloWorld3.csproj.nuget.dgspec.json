@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Studying\\C#_Unity\\CloneC#\\003_HellowWorld3\\003_HelloWorld3.csproj": {}
+    "D:\\Studying\\C#_Unity\\CloneC#\\C#_Gramma_1\\003_HellowWorld3\\003_HelloWorld3.csproj": {}
   },
   "projects": {
-    "D:\\Studying\\C#_Unity\\CloneC#\\003_HellowWorld3\\003_HelloWorld3.csproj": {
+    "D:\\Studying\\C#_Unity\\CloneC#\\C#_Gramma_1\\003_HellowWorld3\\003_HelloWorld3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Studying\\C#_Unity\\CloneC#\\003_HellowWorld3\\003_HelloWorld3.csproj",
+        "projectUniqueName": "D:\\Studying\\C#_Unity\\CloneC#\\C#_Gramma_1\\003_HellowWorld3\\003_HelloWorld3.csproj",
         "projectName": "003_HelloWorld3",
-        "projectPath": "D:\\Studying\\C#_Unity\\CloneC#\\003_HellowWorld3\\003_HelloWorld3.csproj",
+        "projectPath": "D:\\Studying\\C#_Unity\\CloneC#\\C#_Gramma_1\\003_HellowWorld3\\003_HelloWorld3.csproj",
         "packagesPath": "C:\\Users\\woghd\\.nuget\\packages\\",
-        "outputPath": "D:\\Studying\\C#_Unity\\CloneC#\\003_HellowWorld3\\obj\\",
+        "outputPath": "D:\\Studying\\C#_Unity\\CloneC#\\C#_Gramma_1\\003_HellowWorld3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\woghd\\AppData\\Roaming\\NuGet\\NuGet.Config",
