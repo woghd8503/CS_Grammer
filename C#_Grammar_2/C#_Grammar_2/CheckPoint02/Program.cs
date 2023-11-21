@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace CheckPoint02
@@ -20,6 +22,80 @@ namespace CheckPoint02
 
         static void Main(string[] args)
         {
+            Random rnd = new Random();
+
+            Start();
+
+            while (true)
+            {
+                ClearScreen();
+
+                Process(ref rnd);
+
+                UpdateSCreen();
+
+                if (checkResult() == false)
+                    break;
+            }
+        }
+
+        static void Start()
+        {
+
+        }
+
+        static void ClearScreen()
+        {
+            Thread.Sleep(DELAY_TIME);
+            Console.Clear();
+        }
+
+        static void Process(ref Random rnd)
+        {
+            runA++;
+            runB++;
+            runC++;
+            runD++;
+
+            int rndNum = rnd.Next(0, 4);
+            int rndRun = rnd.Next(0, 2);
+
+            switch(rndNum)
+            {
+                case 0:
+                    runA += rndRun;
+                    break;
+                case 1: 
+                    runB += rndRun;
+                    break;
+                case 2:
+                    runC += rndRun;
+                    break;
+                case 3:
+                    runD += rndRun;
+                    break;
+            }
+        }
+
+        static void UpdateScreen()
+        {
+            for (int i = 0; i < runA; i++)
+                Console.Write(" ");
+            Console.Write("1");
+
+            for(int i = FINISH_LINE - runA; i >= 0; i--)
+                Console.Write(" ");
+            Console.WriteLine("|");
+
+            for(int i = 0; i < runB; i++)
+                Console.Write(" ");
+            Console.Write("2");
+
+            for(int i = FINISH_LINE - runB; i >= 0; i--)
+                Console.Write(" ");
+            Console.WriteLine("|");
+
+
         }
     }
 }
