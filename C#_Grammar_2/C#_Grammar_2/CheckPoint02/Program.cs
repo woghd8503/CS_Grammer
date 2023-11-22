@@ -95,7 +95,9 @@ namespace CheckPoint02
                 Console.Write(" ");
             Console.WriteLine("|");
 
-
+            for(int i = 0; i < runC; i++)
+                Console.Write(" ");
+            Console.Write("3");
         }
     }
 }
