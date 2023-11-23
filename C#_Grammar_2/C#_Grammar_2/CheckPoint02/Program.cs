@@ -98,6 +98,14 @@ namespace CheckPoint02
             for(int i = 0; i < runC; i++)
                 Console.Write(" ");
             Console.Write("3");
+
+            for(int i = FINISH_LINE - runC; i >= 0; i--)
+                Console.Write(" ");
+            Console.WriteLine("|");
+
+            for(int i = 0; i < runD; i++)
+                Console.Write(" ");
+            Console.Write("4");
         }
     }
 }
