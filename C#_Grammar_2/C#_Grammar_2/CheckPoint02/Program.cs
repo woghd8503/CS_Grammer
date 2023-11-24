@@ -106,6 +106,48 @@ namespace CheckPoint02
             for(int i = 0; i < runD; i++)
                 Console.Write(" ");
             Console.Write("4");
+
+            for(int i = FINISH_LINE - runD; i >= 0; i--)
+                Console.Write(" ");
+            Console.WriteLine("|");
+
+            Console.WriteLine(LINE);
+        }
+
+        static bool CheckResult()
+        {
+            if(runA >= END_LINE || runB >= END_LINE || runC >= END_LINE || runD >= END_LINE)
+            {
+                string strResult = "결과:  ";
+
+                if (runA >= END_LINE)
+                    strResult += "!!1번 선수 우승!!";
+                else if (runB >= END_LINE)
+                    strResult += "!!2번 선수 우승!!";
+                else if (runC >= END_LINE)
+                    strResult += "!!3번 선수 우승!!";
+                else if (runD >= END_LINE)
+                    strResult += "!!4번 선수 우승!!";
+
+                Console.WriteLine(strResult);
+                Console.Write("다시 하시려면 0번을 누르세요~~");
+
+                if(0 == int.Parse(Console.ReadLine()))
+                {
+                    runA = 0;
+                    runB = 0;
+                    runC = 0;
+                    runD = 0;
+
+                    return true;
+                }
+                else
+                {
+                    return false; // break;
+                }
+            }
+
+            return true;
         }
     }
 }
