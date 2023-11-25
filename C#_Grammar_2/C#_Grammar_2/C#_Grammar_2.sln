@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckPoint01", "CheckPoint0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckPoint02", "CheckPoint02\CheckPoint02.csproj", "{01D60E73-7220-4AF9-9DCA-7442A3FF303E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckPoint03", "CheckPoint03\CheckPoint03.csproj", "{FADD7BBC-0960-47D5-9D22-0EED05D79501}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{01D60E73-7220-4AF9-9DCA-7442A3FF303E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01D60E73-7220-4AF9-9DCA-7442A3FF303E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01D60E73-7220-4AF9-9DCA-7442A3FF303E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FADD7BBC-0960-47D5-9D22-0EED05D79501}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FADD7BBC-0960-47D5-9D22-0EED05D79501}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FADD7BBC-0960-47D5-9D22-0EED05D79501}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FADD7BBC-0960-47D5-9D22-0EED05D79501}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
