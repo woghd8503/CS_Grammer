@@ -17,6 +17,19 @@ namespace CheckPoint03
 
         static void Main(string[] args)
         {
+            for (int i = 0; i < MAP_X; i++)
+            {
+                for(int j = 0; j < MAP_Y; j++)
+                {
+                    int titleIndex = _map[i, j];
+                    Console.Write(_title[titleIndex]);
+
+                    if(i == MAP_Y -1)
+                        Console.WriteLine();
+                }
+            }
         }
+
+        //static void C
     }
 }
