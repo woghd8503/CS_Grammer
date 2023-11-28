@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 /*-----------------------------------------------------------------------------
@@ -30,6 +31,25 @@ namespace CheckPoint03
             }
         }
 
-        //static void C
+        static void ClearView()
+        {
+            Thread.Sleep(DELAY_TIME);
+            Console.WriteLine();
+        }
+
+        static void UpdateGO(int[] _arrIndexX, int[,] _map)
+        {
+            for(int i = 0; i < _arrIndexX.Length; i++)
+            {
+                int indexMaxX = i + 1;
+                int indexY = _arrIndexX[i];
+
+                int temp = _map[indexMaxX, indexY]; //temp = 3;
+                _map[indexMaxX, indexY + 1] = temp;
+                _map[indexMaxX, indexY] = 0;
+
+                _arrIndexX[i]++;
+            }
+        }
     }
 }
