@@ -51,5 +51,33 @@ namespace CheckPoint03
                 _arrIndexX[i]++;
             }
         }
+
+        static bool UpdateRendomGo(int[] _arrIndexX, int[,] _map, Random _rnd)
+        {
+            bool isFinish = false;
+
+            for(int i = 0; i < _arrIndexX.Length; i++)
+            {
+                if (_arrIndexX[i] >= 19)
+                {
+                    isFinish = true;
+                    break;
+                }
+            }
+
+            int rndIndex = _rnd.Next(0, 5); //0 ~ 4
+
+            int indexY = _arrIndexX[rndIndex];
+
+            int temp = _map[rndIndex + 1, indexY]; //rndIndex0일 경우: map[1, ????] //rndIndex1일 경우: map[2, ????]
+            _map[rndIndex + 1, indexY + 1] = temp;
+            _map[rndIndex + 1, indexY] = 0;
+
+            _arrIndexX[rndIndex]++;
+
+            return isFinish;
+        }
+
+
     }
 }
