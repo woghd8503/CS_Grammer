@@ -78,6 +78,16 @@ namespace CheckPoint03
             return isFinish;
         }
 
+        static void Main(string[] args)
+        {
+            Random rnd = new Random();
 
+            char[] title = { ' ', '_', '|', '1', '2', '3', '4', '5' };
+
+            int[,] map = new int[MAP_X, MAP_Y]
+            {
+                //
+            }
+        }
     }
 }
