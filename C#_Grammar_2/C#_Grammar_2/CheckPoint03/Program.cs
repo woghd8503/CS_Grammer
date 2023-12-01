@@ -81,12 +81,13 @@ namespace CheckPoint03
         static void Main(string[] args)
         {
             Random rnd = new Random();
-
+            //                0    1    2    3    4    5    6    7
             char[] title = { ' ', '_', '|', '1', '2', '3', '4', '5' };
 
             int[,] map = new int[MAP_X, MAP_Y]
             {
-                //
+                //0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+                {1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1};
             }
         }
     }
