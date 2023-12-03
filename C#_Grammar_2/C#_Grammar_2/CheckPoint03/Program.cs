@@ -16,7 +16,7 @@ namespace CheckPoint03
         const int MAP_Y = 22;
         const int DELAY_TIME = 300;
 
-        static void Main(string[] args)
+        static void UpdateView(char[] _title, int[,] _map)
         {
             for (int i = 0; i < MAP_X; i++)
             {
@@ -34,7 +34,7 @@ namespace CheckPoint03
         static void ClearView()
         {
             Thread.Sleep(DELAY_TIME);
-            Console.WriteLine();
+            Console.Clear();
         }
 
         static void UpdateGO(int[] _arrIndexX, int[,] _map)
@@ -101,9 +101,61 @@ namespace CheckPoint03
 
             while (true)
             {
+                UpdateGO(arrIndexX, map);
+                isFinish = UpdateRendomGo(arrIndexX, map, rnd);
+                UpdateView(title, map);
 
+                if(isFinish)
+                {
+                    Console.WriteLine();
+
+                    for(int i = 0; i < arrIndexX.Length; i++)
+                    {
+                        if (arrIndexX[i] >= 19)
+                        {
+                            Console.Write("달리기 결과=> 1등: {0}", (i + 1));
+                            break;
+                        }
+                    }
+
+                    Console.Write("\n다시 시작하려면 0을 입력");
+                    string inputSr = Console.ReadLine();
+
+                    if(inputSr == "0")
+                    {
+                        map[1, arrIndexX[0]] = 0;
+                        map[2, arrIndexX[1]] = 0;
+                        map[3, arrIndexX[2]] = 0;
+                        map[4, arrIndexX[3]] = 0;
+                        map[5, arrIndexX[4]] = 0;
+
+                        arrIndexX[0] = 0;
+                        arrIndexX[1] = 0;
+                        arrIndexX[2] = 0;
+                        arrIndexX[3] = 0;
+                        arrIndexX[4] = 0;
+
+                        map[1, 20] = 2;
+                        map[2, 20] = 2;
+                        map[3, 20] = 2;
+                        map[4, 20] = 2;
+                        map[5, 20] = 2;
+
+                        map[1, 0] = 3;
+                        map[2, 0] = 4;
+                        map[3, 0] = 5;
+                        map[4, 0] = 6;
+                        map[5, 0] = 7;
+                    }
+                    else
+                    {
+                        Console.Write("\n나가기");
+                        break;
+                    }
+                }
+
+                ClearView();
             }
-
         }
     }
 }
