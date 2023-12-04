@@ -25,7 +25,7 @@ namespace CheckPoint03
                     int titleIndex = _map[i, j];
                     Console.Write(_title[titleIndex]);
 
-                    if(i == MAP_Y -1)
+                    if(j == MAP_Y -1)
                         Console.WriteLine();
                 }
             }
@@ -82,7 +82,7 @@ namespace CheckPoint03
         {
             Random rnd = new Random();
             //                0    1    2    3    4    5    6    7
-            char[] title = { ' ', '_', '|', '1', '2', '3', '4', '5' };
+            char[] tile = { ' ', '_', '|', '1', '2', '3', '4', '5' };
 
             int[,] map = new int[MAP_X, MAP_Y]
             {
@@ -103,7 +103,7 @@ namespace CheckPoint03
             {
                 UpdateGO(arrIndexX, map);
                 isFinish = UpdateRendomGo(arrIndexX, map, rnd);
-                UpdateView(title, map);
+                UpdateView(tile, map);
 
                 if(isFinish)
                 {
