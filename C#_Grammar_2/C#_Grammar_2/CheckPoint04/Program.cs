@@ -127,8 +127,61 @@ namespace CheckPoint04
 
         public UnitControl() 
         {
-
+            _ArrArmys = new Army[MAX];
+            indexCount = 0;
         }
+
+        public string Menu()
+        {
+            Console.WriteLine("== 유닛 생성 시스템 ==");
+            Console.WriteLine("(1)생성  (2)달리기  (3)공격  (0은 나가기)");
+
+            return Console.ReadLine();
+        }
+
+        public void CreateUnit()
+        {
+            Console.WriteLine("== 유닛 생성==");
+            Console.WriteLine("(1)바바리안   (2)자이언츠   (3)힐러  (0: 뒤로가기)");
+
+            UNIT typeUnit = UNIT.NONE;
+            string strInput = Console.ReadLine();
+
+            if(indexCount >= MAX)
+            {
+                Console.WriteLine("== 유닛 생성 불가 == (총 유닛: {0})", indexCount);
+                Console.WriteLine();
+                return;
+            }
+
+            if(strInput.Equals("1") || strInput.Equals("2") || strInput.Equals("3"))
+            {
+                typeUnit =(UNIT)int.Parse(strInput);
+            }
+
+            switch(typeUnit)
+            {
+                case UNIT.BARBARIAN:
+                    _ArrArmys[indexCount] = new Barbarian();
+                    break;
+                case UNIT.GIANT:
+                    _ArrArmys[indexCount] = new Giant();
+                    break;
+                case UNIT.HEALER:
+                    _ArrArmys[indexCount] = new Healer();
+                    break;
+                case UNIT.NONE:
+                    indexCount--;
+                    break;
+            }
+
+            indexCount++;
+
+            Console.WriteLine("== 유닛 생성 완료 == {총 유닛: {0}}", indexCount);
+            Console.WriteLine();
+        }
+
+
     }
 
 
