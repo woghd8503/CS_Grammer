@@ -181,7 +181,11 @@ namespace CheckPoint04
             Console.WriteLine();
         }
 
-
+        public void UnitRunMenu()
+        {
+            Console.WriteLine("== 유닛 달리기 ==");
+            Console.WriteLine("(1)바바리안  (2)자이언츠  (3)힐러  (4)전체달리기  (0: 뒤로가기)");
+        }
     }
 
 
