@@ -208,12 +208,44 @@ namespace CheckPoint04
 
         public void UnitAttack()
         {
-
+            for(int i = 0; i < indexCount; i++)
+            {
+                _ArrArmys[i].Attack();
+            }
         }
 
         public void UnitAttack(UNIT typeUnit)
         {
-
+            switch(typeUnit)
+            {
+                case UNIT.BARBARIAN:
+                    for(int i = 0; i < indexCount; i++)
+                    {
+                        if (_ArrArmys[i] is Barbarian)
+                        {
+                            _ArrArmys[i].Attack();
+                        }
+                    }
+                    break;
+                case UNIT.GIANT:
+                    for(int i = 0; i < indexCount; i++)
+                    {
+                        if (_ArrArmys[i] is Giant)
+                        {
+                            _ArrArmys[i].Attack();
+                        }
+                    }
+                    break;
+                case UNIT.HEALER:
+                    for(int i = 0; i < indexCount; i++)
+                    {
+                        if (_ArrArmys[i] is Healer)
+                        {
+                            _ArrArmys[i].Attack();
+                        }
+                    }
+                    break;
+            }
         }
     }
 
@@ -222,6 +254,26 @@ namespace CheckPoint04
     {
         static void Main(string[] args)
         {
+            UnitControl control = new UnitControl();
+            string choice;
+            bool isLoop = true;
+
+            while(isLoop)
+            {
+                choice = control.Menu();
+
+                switch(choice)
+                {
+                    case "1":
+                        control.CreateUnit();
+                        break;
+                    case "2":
+                        control.UnitRunMenu();
+                        break;
+                        case "3":
+                        control.UnitAttackMenu();
+                }
+            }
         }
     }
 }
