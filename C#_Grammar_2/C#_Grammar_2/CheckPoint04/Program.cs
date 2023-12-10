@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -185,6 +186,34 @@ namespace CheckPoint04
         {
             Console.WriteLine("== 유닛 달리기 ==");
             Console.WriteLine("(1)바바리안  (2)자이언츠  (3)힐러  (4)전체달리기  (0: 뒤로가기)");
+
+            UNIT typeUnit = UNIT.NONE;
+            string strInput = Console.ReadLine();
+
+            if(strInput.Equals("1") || strInput.Equals("2") || strInput.Equals("3"))
+            {
+                typeUnit = (UNIT)int.Parse(strInput);
+
+                UnitAttack(typeUnit);
+            }
+            else if(strInput.Equals("4"))
+            {
+                UnitAttack();
+            }
+            else
+            {
+                Console.Clear();
+            }
+        }
+
+        public void UnitAttack()
+        {
+
+        }
+
+        public void UnitAttack(UNIT typeUnit)
+        {
+
         }
     }
 
