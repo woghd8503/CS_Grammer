@@ -1,9 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Security.Cryptography.X509Certificates;
-using System.Text;
-using System.Threading.Tasks;
 
 /*-----------------------------------------------------------------------------
  * Name: CheckPoint04
@@ -26,7 +21,7 @@ namespace CheckPoint04
         {
             Console.WriteLine();
 
-            if(this is Healer)
+            if (this is Healer)
             {
                 Console.Write("[마법 공격력 - {0}]으로 ", _Attack * _MP);
             }
@@ -39,7 +34,7 @@ namespace CheckPoint04
 
     class Barbarian : Army
     {
-        public Barbarian() 
+        public Barbarian()
         {
             _HP = 100;
             _MP = 0;
@@ -47,7 +42,7 @@ namespace CheckPoint04
             _Attack = 100;
         }
 
-        public override void Run() 
+        public override void Run()
         {
             base.Run();
 
@@ -62,9 +57,9 @@ namespace CheckPoint04
         }
     }
 
-    class Giant : Army 
+    class Giant : Army
     {
-        public Giant() 
+        public Giant()
         {
             _HP = 200;
             _MP = 0;
@@ -72,7 +67,7 @@ namespace CheckPoint04
             _Attack = 200;
         }
 
-        public override void Run() 
+        public override void Run()
         {
             base.Run();
 
@@ -126,7 +121,7 @@ namespace CheckPoint04
         Army[] _ArrArmys;
         int indexCount;
 
-        public UnitControl() 
+        public UnitControl()
         {
             _ArrArmys = new Army[MAX];
             indexCount = 0;
@@ -148,19 +143,19 @@ namespace CheckPoint04
             UNIT typeUnit = UNIT.NONE;
             string strInput = Console.ReadLine();
 
-            if(indexCount >= MAX)
+            if (indexCount >= MAX)
             {
                 Console.WriteLine("== 유닛 생성 불가 == (총 유닛: {0})", indexCount);
                 Console.WriteLine();
                 return;
             }
 
-            if(strInput.Equals("1") || strInput.Equals("2") || strInput.Equals("3"))
+            if (strInput.Equals("1") || strInput.Equals("2") || strInput.Equals("3"))
             {
-                typeUnit =(UNIT)int.Parse(strInput);
+                typeUnit = (UNIT)int.Parse(strInput);
             }
 
-            switch(typeUnit)
+            switch (typeUnit)
             {
                 case UNIT.BARBARIAN:
                     _ArrArmys[indexCount] = new Barbarian();
@@ -190,6 +185,72 @@ namespace CheckPoint04
             UNIT typeUnit = UNIT.NONE;
             string strInput = Console.ReadLine();
 
+            if (strInput.Equals("1") || strInput.Equals("2") || strInput.Equals("3"))
+            {
+                typeUnit = (UNIT)int.Parse(strInput);
+
+                UnitRun(typeUnit);
+            }
+            else if (strInput.Equals("4"))
+            {
+                UnitRun();
+            }
+            else
+            {
+                Console.Clear();
+            }
+        }
+
+        public void UnitRun()
+        {
+            for(int i = 0; i < indexCount; i++)
+            {
+                _ArrArmys[i].Run();
+            }
+        }
+
+        public void UnitRun(UNIT typeUnit)
+        {
+            switch(typeUnit)
+            {
+                case UNIT.BARBARIAN:
+                    for(int i = 0; i < indexCount; i++)
+                    {
+                        if (_ArrArmys[i] is Barbarian)
+                        {
+                            _ArrArmys[i].Run();
+                        }
+                    }
+                break;
+                case UNIT.GIANT:
+                    for(int i = 0; i < indexCount; i++)
+                    {
+                        if (_ArrArmys[i] is Giant)
+                        {
+                            _ArrArmys[i].Run();
+                        }
+                    }
+                    break;
+                case UNIT.HEALER:
+                    for(int i = 0; i < indexCount; i++)
+                    {
+                        if (_ArrArmys[i] is Healer)
+                        {
+                            _ArrArmys[i].Run();
+                        }
+                    }
+                    break;
+            }
+        }
+
+        public void UnitAttackMenu()
+        {
+            Console.WriteLine("== 유닛 공격 ==");
+            Console.WriteLine("(1)바바리안  (2)자이언트  (3)힐러  (4)전체공격  (0: 뒤로가기)");
+
+            UNIT typeUnit = UNIT.NONE;
+            string strInput = Console.ReadLine();
+
             if(strInput.Equals("1") || strInput.Equals("2") || strInput.Equals("3"))
             {
                 typeUnit = (UNIT)int.Parse(strInput);
@@ -208,7 +269,7 @@ namespace CheckPoint04
 
         public void UnitAttack()
         {
-            for(int i = 0; i < indexCount; i++)
+            for (int i = 0; i < indexCount; i++)
             {
                 _ArrArmys[i].Attack();
             }
@@ -216,10 +277,10 @@ namespace CheckPoint04
 
         public void UnitAttack(UNIT typeUnit)
         {
-            switch(typeUnit)
+            switch (typeUnit)
             {
                 case UNIT.BARBARIAN:
-                    for(int i = 0; i < indexCount; i++)
+                    for (int i = 0; i < indexCount; i++)
                     {
                         if (_ArrArmys[i] is Barbarian)
                         {
@@ -228,7 +289,7 @@ namespace CheckPoint04
                     }
                     break;
                 case UNIT.GIANT:
-                    for(int i = 0; i < indexCount; i++)
+                    for (int i = 0; i < indexCount; i++)
                     {
                         if (_ArrArmys[i] is Giant)
                         {
@@ -237,7 +298,7 @@ namespace CheckPoint04
                     }
                     break;
                 case UNIT.HEALER:
-                    for(int i = 0; i < indexCount; i++)
+                    for (int i = 0; i < indexCount; i++)
                     {
                         if (_ArrArmys[i] is Healer)
                         {
@@ -258,11 +319,11 @@ namespace CheckPoint04
             string choice;
             bool isLoop = true;
 
-            while(isLoop)
+            while (isLoop)
             {
                 choice = control.Menu();
 
-                switch(choice)
+                switch (choice)
                 {
                     case "1":
                         control.CreateUnit();
@@ -270,8 +331,12 @@ namespace CheckPoint04
                     case "2":
                         control.UnitRunMenu();
                         break;
-                        case "3":
+                    case "3":
                         control.UnitAttackMenu();
+                        break;
+                    default:
+                        isLoop = false;
+                        break;
                 }
             }
         }
