@@ -49,6 +49,14 @@ namespace CheckPoint05
 
                 switch(inputNum)
                 {
+                    case "0":
+                        Console.WriteLine("프로그램 종료");
+                        IsLoop = false;
+                        break;
+
+                    case "1":
+                        //SortID(listData);
+                        break;
 
                 }
             }
