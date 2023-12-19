@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -40,7 +41,18 @@ namespace CheckPoint05
 
             InitData(listData);
 
-             
+            do
+            {
+                Console.WriteLine("메뉴를 골라주세요?");
+                Console.Write("(1)id정령 (2)성적순 정렬 (3)국어 점수 정렬 ");
+                string inputNum = Console.ReadLine();
+
+                switch(inputNum)
+                {
+
+                }
+            }
+            while (IsLoop);
         }
 
         static void InitData(List<CStudent> _listData)
