@@ -35,6 +35,17 @@ namespace CheckPoint05
     {
         static void Main(string[] args)
         {
+            List<CStudent> listData = new List<CStudent>();
+            bool IsLoop = true;
+
+            InitData(listData);
+
+             
+        }
+
+        static void InitData(List<CStudent> _listData)
+        {
+
         }
     }
 }
