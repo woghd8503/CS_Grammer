@@ -58,6 +58,9 @@ namespace CheckPoint05
                         //SortID(listData);
                         break;
 
+                    case "2":
+                        //SortTotal(listData);
+                        break;
                 }
             }
             while (IsLoop);
