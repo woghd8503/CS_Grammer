@@ -61,6 +61,19 @@ namespace CheckPoint05
                     case "2":
                         //SortTotal(listData);
                         break;
+                    case "3":
+                        //SortKor(listData);
+                        break;
+                    case "4":
+                        //FindDataUp(listData, true);
+                        break;
+                    case "5":
+                        //FindDataup(listData, false);
+
+                    default:
+                        Console.Clear();
+                        Console.WriteLine("다시 입력하시요~~~~");
+                        break;
                 }
             }
             while (IsLoop);
