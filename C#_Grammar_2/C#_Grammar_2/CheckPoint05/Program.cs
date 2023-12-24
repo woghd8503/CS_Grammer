@@ -79,7 +79,24 @@ namespace CheckPoint05
             while (IsLoop);
         }
 
+        /// <summary>
+        /// 학생 데이터를 생성
+        /// 0 0 0 0
+        /// 1, ?, ?, ?
+        /// </summary>
+        /// <param name="_listData"></param>
         static void InitData(List<CStudent> _listData)
+        {
+            Random rd = new Random();
+
+            for(int i = 0; i < 10; i++)
+            {
+                CStudent data = new CStudent(i, rd.Next(0, 100), rd.Next(0, 100), rd.Next(0, 100));
+                _listData.Add(data);
+            }
+        }
+
+        static void PrintList(List<CStudent> _listData)
         {
 
         }
