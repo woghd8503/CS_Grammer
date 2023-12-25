@@ -44,7 +44,7 @@ namespace CheckPoint05
             do
             {
                 Console.WriteLine("메뉴를 골라주세요?");
-                Console.Write("(1)id정령 (2)성적순 정렬 (3)국어 점수 정렬 ");
+                Console.Write("(1)id정령 (2)성적순 정렬 (3)국어 점수 정렬 (4)특정점수이상 (5)특정점수이하 (0)나가기");
                 string inputNum = Console.ReadLine();
 
                 switch(inputNum)
@@ -55,20 +55,21 @@ namespace CheckPoint05
                         break;
 
                     case "1":
-                        //SortID(listData);
+                        SortID(listData);
                         break;
 
                     case "2":
-                        //SortTotal(listData);
+                        SortTotal(listData);
                         break;
                     case "3":
-                        //SortKor(listData);
+                        SortKor(listData);
                         break;
                     case "4":
-                        //FindDataUp(listData, true);
+                        FindDataUp(listData, true);
                         break;
                     case "5":
-                        //FindDataup(listData, false);
+                        FindDataUp(listData, false);
+                        break;
 
                     default:
                         Console.Clear();
@@ -98,7 +99,113 @@ namespace CheckPoint05
 
         static void PrintList(List<CStudent> _listData)
         {
+            _listData.Sort(delegate (CStudent a, CStudent b)
+            {
+                if(a.ID > b.ID)
+                    return 1;
+                else if(a.ID < b.ID)
+                    return -1;
+                else
+                    return 0;
+            });
 
+            Console.WriteLine("아이디 정렬");
+            PrintList( _listData );
+        }
+
+        static void SortID(List<CStudent> _listData)
+        {
+            _listData.Sort(delegate (CStudent a, CStudent b)
+            {
+                if (a.ID > b.ID)
+                    return 1;
+                else if (a.ID < b.ID)
+                    return -1;
+                else
+                    return 0;
+            });
+
+            Console.WriteLine("아이디 정렬");
+            PrintList(_listData );
+        }
+
+        static void SortTotal(List<CStudent> _listData)
+        {
+            var items = from item in _listData
+                        orderby item.TOTAL descending
+                        select item;
+
+            List<CStudent> sortData = items.ToList<CStudent>();
+
+            Console.WriteLine("총점 정렬");
+            PrintList(sortData);
+        }
+
+        static void SortKor(List<CStudent> _listData)
+        {
+            _listData.Sort((CStudent a, CStudent b) => { return b.KOR - a.KOR; });
+
+            Console.WriteLine("국어 점수 정렬");
+            PrintList(_listData);
+        }
+
+        static void FindDataUp(List<CStudent> _listData, bool isUP)
+        {
+            Console.WriteLine("기준 점수를 입력하세요)");
+            string inputData = Console.ReadLine();
+            int num = 0;
+
+            try
+            {
+                num = int.Parse(inputData);
+            }
+            catch(FormatException e)
+            {
+                Console.Clear();
+                Console.WriteLine("입력값 {0} 잘못된 입력입니다. 숫자만 입력하세요!!", num);
+            }
+            finally
+            {
+                if(num < 0)
+                {
+                    Console.Clear();
+                    Console.WriteLine("입력값 {0} 잘못된 입력입니다. 작은 수 입니다.!!", num);
+                }
+
+                if(num > 300)
+                {
+                    Console.Clear();
+                    Console.WriteLine("입력값 {0} 잘못된 입력입니다. 큰 수 입니다.!!", num);
+                }
+            }
+
+            if(num >= 0 && num <= 300)
+            {
+                if(isUP)
+                {
+                    var findData =
+                        from item in _listData
+                        where item.TOTAL >= num
+                        select item;
+
+                    List<CStudent> toData = findData.ToList<CStudent>();
+                    PrintList(toData);
+
+                    SortID(toData);
+
+                    SortTotal(toData);
+                }
+                else
+                {
+                    List<CStudent> findList = _listData.FindAll((data) => data.TOTAL <= num);
+
+                    PrintList(findList);
+
+                    SortID(findList);
+
+                    SortTotal(findList);
+                }
+            }
         }
     }
 }
