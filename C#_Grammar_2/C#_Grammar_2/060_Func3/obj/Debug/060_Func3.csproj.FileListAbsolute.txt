@@ -1,0 +1,7 @@
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\060_Func3\bin\Debug\060_Func3.exe.config
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\060_Func3\bin\Debug\060_Func3.exe
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\060_Func3\bin\Debug\060_Func3.pdb
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\060_Func3\obj\Debug\060_Func3.csproj.AssemblyReference.cache
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\060_Func3\obj\Debug\060_Func3.csproj.CoreCompileInputs.cache
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\060_Func3\obj\Debug\060_Func3.exe
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\060_Func3\obj\Debug\060_Func3.pdb
