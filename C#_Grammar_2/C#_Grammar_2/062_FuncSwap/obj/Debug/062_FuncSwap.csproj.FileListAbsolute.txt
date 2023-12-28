@@ -1,0 +1,7 @@
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\062_FuncSwap\bin\Debug\062_FuncSwap.exe.config
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\062_FuncSwap\bin\Debug\062_FuncSwap.exe
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\062_FuncSwap\bin\Debug\062_FuncSwap.pdb
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\062_FuncSwap\obj\Debug\062_FuncSwap.csproj.AssemblyReference.cache
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\062_FuncSwap\obj\Debug\062_FuncSwap.csproj.CoreCompileInputs.cache
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\062_FuncSwap\obj\Debug\062_FuncSwap.exe
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\062_FuncSwap\obj\Debug\062_FuncSwap.pdb
