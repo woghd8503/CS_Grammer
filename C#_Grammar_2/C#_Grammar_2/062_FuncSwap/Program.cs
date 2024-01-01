@@ -1,9 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
+/*-----------------------------------------------------------------------------
+ * Name: _062_FuncSwap
+ * DESC: 함수 기초: 리턴형 O, 파라미터 O(2개 이상의 파라미터) 
+-----------------------------------------------------------------------------*/
 namespace _062_FuncSwap
 {
     class Program
