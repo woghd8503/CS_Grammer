@@ -58,7 +58,6 @@ namespace Homework
 
     public static class SOME2
     {
-
         public static string ToInstanceString(this object obj)
         {
             obj.ToString();
