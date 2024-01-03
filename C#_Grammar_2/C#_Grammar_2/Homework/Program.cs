@@ -55,4 +55,14 @@ namespace Homework
             Console.WriteLine(jamesWife.ToString());
         }
     }
+
+    public static class SOME2
+    {
+
+        public static string ToInstanceString(this object obj)
+        {
+            obj.ToString();
+            return obj.ToString();
+        }
+    }
 }
