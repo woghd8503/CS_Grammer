@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework", "Homework\Homewo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "064_Func_default", "064_Func_default\064_Func_default.csproj", "{13ED9CD9-6A89-45B9-828E-47263DE959FE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "065_Func_Overloading", "065_Func_Overloading\065_Func_Overloading.csproj", "{6CF28F52-1E72-47B2-8BE6-C9525A6D6B1B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{13ED9CD9-6A89-45B9-828E-47263DE959FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13ED9CD9-6A89-45B9-828E-47263DE959FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13ED9CD9-6A89-45B9-828E-47263DE959FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CF28F52-1E72-47B2-8BE6-C9525A6D6B1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CF28F52-1E72-47B2-8BE6-C9525A6D6B1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CF28F52-1E72-47B2-8BE6-C9525A6D6B1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CF28F52-1E72-47B2-8BE6-C9525A6D6B1B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
