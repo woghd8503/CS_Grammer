@@ -1,0 +1,7 @@
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\068_Array_Int\bin\Debug\068_Array_Int.exe.config
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\068_Array_Int\bin\Debug\068_Array_Int.exe
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\068_Array_Int\bin\Debug\068_Array_Int.pdb
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\068_Array_Int\obj\Debug\068_Array_Int.csproj.AssemblyReference.cache
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\068_Array_Int\obj\Debug\068_Array_Int.csproj.CoreCompileInputs.cache
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\068_Array_Int\obj\Debug\068_Array_Int.exe
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\068_Array_Int\obj\Debug\068_Array_Int.pdb
