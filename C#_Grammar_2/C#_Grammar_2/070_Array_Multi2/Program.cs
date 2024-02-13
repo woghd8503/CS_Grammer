@@ -41,7 +41,25 @@ namespace _070_Array_Multi2
             int[,,] arrMulti2 = new int[4, 3, 2]
             {
                 {{0, 1}, {2, 3}, {4, 5}},
-                
+                {{6, 7}, {8, 9}, {10, 11}},
+                {{12, 13}, {14,15}, {16, 17}},
+                {{18, 19}, {20,21}, {22, 23}}
+            };
+
+            Console.WriteLine("arrMulti.Length: " + arrMulti.Length);
+            Console.WriteLine("arrMulti1.Length: " + arrMulti1.Length);
+            Console.WriteLine("arrMulti2.Length: " + arrMulti2.Length);
+        
+            foreach(int temp in arrMulti1)
+            {
+                Console.Write("  " + temp);
+            }
+
+            Console.WriteLine();
+
+            foreach(int temp in arrMulti2)
+            {
+                Console.Write("  " + temp);
             }
         }
     }

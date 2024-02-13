@@ -1,0 +1,7 @@
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\070_Array_Multi2\bin\Debug\070_Array_Multi2.exe.config
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\070_Array_Multi2\bin\Debug\070_Array_Multi2.exe
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\070_Array_Multi2\bin\Debug\070_Array_Multi2.pdb
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\070_Array_Multi2\obj\Debug\070_Array_Multi2.csproj.AssemblyReference.cache
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\070_Array_Multi2\obj\Debug\070_Array_Multi2.csproj.CoreCompileInputs.cache
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\070_Array_Multi2\obj\Debug\070_Array_Multi2.exe
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\070_Array_Multi2\obj\Debug\070_Array_Multi2.pdb
