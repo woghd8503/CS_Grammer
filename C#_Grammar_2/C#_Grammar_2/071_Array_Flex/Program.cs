@@ -14,10 +14,12 @@ namespace _071_Array_Flex
     {
         static void Main(string[] args)
         {
-            int[][] arrNum = new int[3][]
-            {
-                arrNum[0] = new int[2] { 0, 1 };
-            }
+            int[][] arrNum = new int[3][];
+            
+            arrNum[0] = new int[2] { 0, 1 };
+            arrNum[1] = new int[4] { 0, 1, 2, 3 };
+            arrNum[2] = new int[] { 0, 1, 2 };
+
         }
     }
 }
