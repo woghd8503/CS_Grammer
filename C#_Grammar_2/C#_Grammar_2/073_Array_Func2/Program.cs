@@ -17,9 +17,21 @@ namespace _072_Array_Func1
         {
             int[] creArray = new int[size];
 
-            for(int i = 0; i < creArray.Length; i++)
+            for (int i = 0; i < creArray.Length; i++)
             {
                 creArray[i] = 0;
+            }
+
+            return creArray;
+        }
+
+        static string[] CreateStrArray(int size)
+        {
+            string[] creArray = new string[size];
+
+            for (int i = 0; i < creArray.Length; i++)
+            {
+                creArray[i] = string.Empty;
             }
 
             return creArray;
