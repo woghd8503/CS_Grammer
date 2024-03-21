@@ -35,6 +35,29 @@ namespace _072_Array_Func1
             }
 
             return creArray;
+        }
+
+        static int[,] CreateStrArray()
+        {
+            int[,] array = new int[3, 2];
+
+            for (int i = 0; i < 3; i++)
+            {
+                for(int j = 0; j < 2; j++)
+                {
+                    array[i, j] = 0;
+                }
+            }
+            
+            return array;
+        }
+
+        static void Main(string[] args)
+        {
+            int[] arrNum = CreateIntArray(3);
+            string[] strName = CreateStrArray(5);
+            int[,] array = CreateStrArray();
+
 
         }
     }
