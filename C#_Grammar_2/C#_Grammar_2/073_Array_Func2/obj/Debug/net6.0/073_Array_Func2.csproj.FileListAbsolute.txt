@@ -1,0 +1,4 @@
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\073_Array_Func2\obj\Debug\net6.0\073_Array_Func2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\073_Array_Func2\obj\Debug\net6.0\073_Array_Func2.AssemblyInfoInputs.cache
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\073_Array_Func2\obj\Debug\net6.0\073_Array_Func2.AssemblyInfo.cs
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\073_Array_Func2\obj\Debug\net6.0\073_Array_Func2.csproj.CoreCompileInputs.cache
