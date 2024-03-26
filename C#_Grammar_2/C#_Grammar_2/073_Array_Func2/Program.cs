@@ -5,11 +5,11 @@ using System.Text;
 using System.Threading.Tasks;
 
 /*-----------------------------------------------------------------------------
- * Name: _073_Array_Func1
+ * Name: _073_Array_Func2
  * DESC: 함수 파라미터로 배열 처리(CallbyReference)
 -----------------------------------------------------------------------------*/
 
-namespace _072_Array_Func1
+namespace _072_Array_Func2
 {
     class Program
     {
@@ -57,8 +57,53 @@ namespace _072_Array_Func1
             int[] arrNum = CreateIntArray(3);
             string[] strName = CreateStrArray(5);
             int[,] array = CreateStrArray();
+            
+            foreach(int temp in arrNum)
+            {
+                Console.Write("  {0}", temp);
+            }
 
+            Console.WriteLine("\n--------------------------");
 
+            arrNum[0] = 1000;
+            foreach(int temp in arrNum)
+            {
+                Console.WriteLine("  {0}", temp);
+            }
+
+            Console.WriteLine("\n--------------------------");
+
+            foreach(string s in strName)
+            {
+                Console.WriteLine("strName: {0}", s);
+            }
+
+            Console.WriteLine("\n--------------------------");
+
+            strName[0] = "Hello World";
+            strName[1] = "!!!";
+
+            foreach(string s in strName)
+            {
+                Console.WriteLine("strName: {0}", s);
+            }
+
+            Console.WriteLine("\n--------------------------");
+
+            foreach(int data in array)
+            {
+                Console.WriteLine("data: {0}", data);
+            }
+
+            array[0, 0] = 10;
+            array[2, 0] = 10;
+
+            Console.WriteLine("--------------------------");
+
+            foreach(int data in array)
+            {
+                Console.WriteLine("data: {0}", data);
+            }
         }
     }
 }
