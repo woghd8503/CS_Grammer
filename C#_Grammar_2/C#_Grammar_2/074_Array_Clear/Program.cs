@@ -28,6 +28,28 @@ namespace _074_Array_Clear
             }
 
             Console.WriteLine("\n-----------------------------");
+
+            int[,] arrNum = new int[3, 2];
+
+            Console.WriteLine("\n-------  Array.Clear  ------");
+            Array.Clear(arrNum, 0, arrNum.Length);
+
+            for(int i = 0; i < arrNum.GetLength(0); i++)
+            {
+                for(int j = 0; j < arrNum.GetLength(1); j++)
+                {
+                    arrNum[i, j] = (i * arrNum.GetLength(1)) + j;
+                }
+            }
+
+            for(int i = 0; i < arrNum.GetLength(0); i++)
+            {
+                for(int j = 0; j < arrNum.GetLength(1); j++)
+                {
+                    Console.Write("  " + arrNum[i, j]);
+                }
+                Console.WriteLine();
+            }
         }
     }
 }
