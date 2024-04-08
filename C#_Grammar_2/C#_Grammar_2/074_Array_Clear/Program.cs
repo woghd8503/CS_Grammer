@@ -64,7 +64,40 @@ namespace _074_Array_Clear
 
             Console.WriteLine("arrMulti1.Length: " + arrMULTI1.Length);
 
+            for(int i = 0; i < arrMULTI1.GetLength(0); i++)
+            {
+                for(int j = 0; j < arrMULTI1.GetLength(1); j++)
+                {
+                    for(int k = 0; k < arrMULTI1.GetLength(2); k++)
+                    {
+                        Console.Write("  " + arrMULTI1[i, j, k]);
+                    }
+                    Console.WriteLine();
+                }
+                Console.WriteLine();
+            }
 
+            Console.WriteLine("-----------------------------");
+
+            int[,,] cloneArray = (int[,,])arrMULTI1.Clone();
+
+            for(int i = 0; i < cloneArray.GetLength(0); i++)
+            {
+                for(int j = 0; j < cloneArray.GetLength(1); j++)
+                {
+                    for(int k = 0; k < cloneArray.GetLength(2); k++)
+                    {
+                        Console.Write("  " + cloneArray[i, j, k]);
+                    }
+                    Console.WriteLine();
+                }
+                Console.WriteLine();
+            }
+
+            Console.WriteLine("-----------------------------");
+            cloneArray[0, 0, 0] = 10000;
+            Console.Write("\n arrMulti1[0, 0, 0]:  {0}", arrMULTI1[0, 0, 0]);
+            Console.Write("\n cloneArray[0, 0, 0]:  {0}", cloneArray[0, 0, 0]);
         }
     }
 }
