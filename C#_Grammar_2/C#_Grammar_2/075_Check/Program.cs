@@ -26,5 +26,10 @@ namespace _075_Check
             math[index] = int.Parse(Console.ReadLine());
         }
 
+        static void InputEng(int[] eng, int index)
+        {
+
+        }
+
     }
 }
