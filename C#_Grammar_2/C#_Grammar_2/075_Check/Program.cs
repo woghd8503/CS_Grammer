@@ -28,8 +28,29 @@ namespace _075_Check
 
         static void InputEng(int[] eng, int index)
         {
-
+            Console.Write("영어 점수를 입력하세요?  ");
+            eng[index] = int.Parse(Console.ReadLine());
         }
 
+        static int checkID(int id, int max, int[] ID)
+        {
+            for(int i = 0; i < max; i++)
+            {
+                if (ID[i] == id)
+                {
+                    return i;
+                }
+            }
+            return -1;
+        }
+
+        static void Main(string[] args)
+        {
+            const int MAX = 3;
+
+            int[] arrID = new int[MAX];
+            int[] arrKor = new int[MAX];
+
+        }
     }
 }
