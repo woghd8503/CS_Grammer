@@ -50,6 +50,28 @@ namespace _075_Check
 
             int[] arrID = new int[MAX];
             int[] arrKor = new int[MAX];
+            int[] arrMath = new int[MAX];
+            int[] arrEng = new int[MAX];
+
+            int inputSel = 0;
+            int selID = -1;
+
+            for(int i = 0; i < MAX; i++)
+            {
+                InputID(arrID, i);
+                InputID(arrKor, i);
+                InputID(arrMath, i);
+                InputID(arrEng, i);
+
+                Console.WriteLine();
+            }
+
+            Console.Clear();
+
+            while(true)
+            {
+
+            }
 
         }
     }
