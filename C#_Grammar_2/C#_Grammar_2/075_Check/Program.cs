@@ -72,7 +72,6 @@ namespace _075_Check
             {
 
             }
-
         }
     }
 }
