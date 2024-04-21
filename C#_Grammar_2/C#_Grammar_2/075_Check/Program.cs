@@ -32,6 +32,14 @@ namespace _075_Check
             eng[index] = int.Parse(Console.ReadLine());
         }
 
+        static void PrintID(int max, int[] ID)
+        {
+            for(int i = 0; i < max; i++)
+            {
+                Console.WriteLine("학생 ID:  {0}", ID[i]);
+            }
+        }
+
         static int checkID(int id, int max, int[] ID)
         {
             for(int i = 0; i < max; i++)
@@ -70,6 +78,17 @@ namespace _075_Check
 
             while(true)
             {
+                PrintID(MAX, arrID);
+                Console.Write("학생 아이디를 입력하세요? (0)나가기 ");
+                inputSel = int.Parse(Console.ReadLine());
+
+                if(inputSel == 0)
+                {
+                    break;
+                }
+
+                selID = checkID(inputSel, MAX, arrID);
+
 
             }
         }
