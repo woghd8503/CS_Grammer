@@ -67,9 +67,9 @@ namespace _075_Check
             for(int i = 0; i < MAX; i++)
             {
                 InputID(arrID, i);
-                InputID(arrKor, i);
-                InputID(arrMath, i);
-                InputID(arrEng, i);
+                InputKor(arrKor, i);
+                InputMath(arrMath, i);
+                InputEng(arrEng, i);
 
                 Console.WriteLine();
             }
@@ -89,6 +89,23 @@ namespace _075_Check
 
                 selID = checkID(inputSel, MAX, arrID);
 
+                if(selID >= 0)
+                {
+                    Console.WriteLine("국어 점수:  {0}", arrKor[selID]);
+                    Console.WriteLine("수학 점수:  {0}", arrMath[selID]);
+                    Console.WriteLine("영어 점수:  {0}", arrEng[selID]);
+
+                    int total = arrKor[selID] + arrMath[selID] + arrEng[selID];
+
+                    Console.WriteLine("총점:  {0}", total);
+                    Console.WriteLine("평균:  {0}", total / (float)MAX);
+
+                    Console.WriteLine();
+                }
+                else
+                {
+                    Console.WriteLine("학생 아이디가 없어요. 다시 입력하세요");
+                }
 
             }
         }
