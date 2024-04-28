@@ -1,0 +1,15 @@
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\080_static\bin\Debug\net8.0\080_static.exe
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\080_static\bin\Debug\net8.0\080_static.deps.json
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\080_static\bin\Debug\net8.0\080_static.runtimeconfig.json
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\080_static\bin\Debug\net8.0\080_static.dll
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\080_static\bin\Debug\net8.0\080_static.pdb
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\080_static\obj\Debug\net8.0\080_static.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\080_static\obj\Debug\net8.0\080_static.AssemblyInfoInputs.cache
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\080_static\obj\Debug\net8.0\080_static.AssemblyInfo.cs
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\080_static\obj\Debug\net8.0\080_static.csproj.CoreCompileInputs.cache
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\080_static\obj\Debug\net8.0\080_static.sourcelink.json
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\080_static\obj\Debug\net8.0\080_static.dll
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\080_static\obj\Debug\net8.0\refint\080_static.dll
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\080_static\obj\Debug\net8.0\080_static.pdb
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\080_static\obj\Debug\net8.0\080_static.genruntimeconfig.cache
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\080_static\obj\Debug\net8.0\ref\080_static.dll

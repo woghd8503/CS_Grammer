@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("074_Array_Clear")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4437d507345ede1c06af4794792ede2c53b7981")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b7b10b00fdff5b7814105282571800e8fa9aee5")]
 [assembly: System.Reflection.AssemblyProductAttribute("074_Array_Clear")]
 [assembly: System.Reflection.AssemblyTitleAttribute("074_Array_Clear")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
