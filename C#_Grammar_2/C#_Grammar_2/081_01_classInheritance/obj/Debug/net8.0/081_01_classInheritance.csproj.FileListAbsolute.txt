@@ -1,0 +1,15 @@
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\081_01_classInheritance\bin\Debug\net8.0\081_01_classInheritance.exe
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\081_01_classInheritance\bin\Debug\net8.0\081_01_classInheritance.deps.json
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\081_01_classInheritance\bin\Debug\net8.0\081_01_classInheritance.runtimeconfig.json
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\081_01_classInheritance\bin\Debug\net8.0\081_01_classInheritance.dll
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\081_01_classInheritance\bin\Debug\net8.0\081_01_classInheritance.pdb
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\081_01_classInheritance\obj\Debug\net8.0\081_01_classInheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\081_01_classInheritance\obj\Debug\net8.0\081_01_classInheritance.AssemblyInfoInputs.cache
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\081_01_classInheritance\obj\Debug\net8.0\081_01_classInheritance.AssemblyInfo.cs
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\081_01_classInheritance\obj\Debug\net8.0\081_01_classInheritance.csproj.CoreCompileInputs.cache
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\081_01_classInheritance\obj\Debug\net8.0\081_01_classInheritance.sourcelink.json
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\081_01_classInheritance\obj\Debug\net8.0\081_01_classInheritance.dll
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\081_01_classInheritance\obj\Debug\net8.0\refint\081_01_classInheritance.dll
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\081_01_classInheritance\obj\Debug\net8.0\081_01_classInheritance.pdb
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\081_01_classInheritance\obj\Debug\net8.0\081_01_classInheritance.genruntimeconfig.cache
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\081_01_classInheritance\obj\Debug\net8.0\ref\081_01_classInheritance.dll
