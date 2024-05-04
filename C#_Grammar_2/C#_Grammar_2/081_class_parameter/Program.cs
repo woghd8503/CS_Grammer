@@ -18,7 +18,6 @@ namespace _081_class_parameter
             b = 0;
         }
 
-
         public void Print()
         {
             Console.WriteLine();
