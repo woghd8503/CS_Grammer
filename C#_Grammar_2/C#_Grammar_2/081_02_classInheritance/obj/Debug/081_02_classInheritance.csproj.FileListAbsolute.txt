@@ -1,0 +1,7 @@
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\081_02_classInheritance\bin\Debug\081_02_classInheritance.exe.config
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\081_02_classInheritance\bin\Debug\081_02_classInheritance.exe
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\081_02_classInheritance\bin\Debug\081_02_classInheritance.pdb
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\081_02_classInheritance\obj\Debug\081_02_classInheritance.csproj.AssemblyReference.cache
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\081_02_classInheritance\obj\Debug\081_02_classInheritance.csproj.CoreCompileInputs.cache
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\081_02_classInheritance\obj\Debug\081_02_classInheritance.exe
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\081_02_classInheritance\obj\Debug\081_02_classInheritance.pdb
