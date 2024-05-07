@@ -69,6 +69,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "081_01_classInheritance", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "081_02_classInheritance", "081_02_classInheritance\081_02_classInheritance.csproj", "{1378B332-89A8-41D1-8176-572E90F30D99}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "081_03_class_base", "081_03_class_base\081_03_class_base.csproj", "{B6C96CFD-90FE-4B5A-B611-876834EE107E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -475,6 +477,18 @@ Global
 		{1378B332-89A8-41D1-8176-572E90F30D99}.Release|x64.Build.0 = Release|Any CPU
 		{1378B332-89A8-41D1-8176-572E90F30D99}.Release|x86.ActiveCfg = Release|Any CPU
 		{1378B332-89A8-41D1-8176-572E90F30D99}.Release|x86.Build.0 = Release|Any CPU
+		{B6C96CFD-90FE-4B5A-B611-876834EE107E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6C96CFD-90FE-4B5A-B611-876834EE107E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6C96CFD-90FE-4B5A-B611-876834EE107E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B6C96CFD-90FE-4B5A-B611-876834EE107E}.Debug|x64.Build.0 = Debug|Any CPU
+		{B6C96CFD-90FE-4B5A-B611-876834EE107E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B6C96CFD-90FE-4B5A-B611-876834EE107E}.Debug|x86.Build.0 = Debug|Any CPU
+		{B6C96CFD-90FE-4B5A-B611-876834EE107E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6C96CFD-90FE-4B5A-B611-876834EE107E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6C96CFD-90FE-4B5A-B611-876834EE107E}.Release|x64.ActiveCfg = Release|Any CPU
+		{B6C96CFD-90FE-4B5A-B611-876834EE107E}.Release|x64.Build.0 = Release|Any CPU
+		{B6C96CFD-90FE-4B5A-B611-876834EE107E}.Release|x86.ActiveCfg = Release|Any CPU
+		{B6C96CFD-90FE-4B5A-B611-876834EE107E}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
