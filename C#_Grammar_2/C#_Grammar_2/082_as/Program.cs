@@ -44,10 +44,10 @@ namespace _082_as
     {
         static void Main(string[] args)
         {
-            Base _base = new AA();
+            Base _base = new Base();
             _base.Print();
 
-            Base aa = new BB();
+            Base aa = new AA();
             aa.Print();
 
             if (aa is BB)
@@ -65,7 +65,7 @@ namespace _082_as
             if(null != copyBB)
             {
                 Console.WriteLine("--------------------------------");
-                Console.WriteLine("--------------------------------");
+                Console.WriteLine("copyBB는 BB객체를 형식 변환!!");
                 copyBB.Print();
             }
 
@@ -80,7 +80,7 @@ namespace _082_as
                 //copyAA.PrintA();  //오류(=> 다형성으로 가능)
 
                 AA asAA = copyAA as AA; //강제 형 변환
-                asAA.Print();
+                asAA.PrintA();
             }
         }
     }
