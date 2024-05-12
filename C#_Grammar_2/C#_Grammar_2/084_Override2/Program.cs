@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _084_Override2
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
