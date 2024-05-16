@@ -77,6 +77,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "083_override", "083_overrid
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "084_Override2", "084_Override2\084_Override2.csproj", "{1E8BB832-62F1-4C2E-AC98-A3DB5996BD1C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "085_class_has-a", "085_class_has-a\085_class_has-a.csproj", "{89801614-8DDC-4C11-91EB-39B71A7FC5A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -531,6 +533,18 @@ Global
 		{1E8BB832-62F1-4C2E-AC98-A3DB5996BD1C}.Release|x64.Build.0 = Release|Any CPU
 		{1E8BB832-62F1-4C2E-AC98-A3DB5996BD1C}.Release|x86.ActiveCfg = Release|Any CPU
 		{1E8BB832-62F1-4C2E-AC98-A3DB5996BD1C}.Release|x86.Build.0 = Release|Any CPU
+		{89801614-8DDC-4C11-91EB-39B71A7FC5A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89801614-8DDC-4C11-91EB-39B71A7FC5A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89801614-8DDC-4C11-91EB-39B71A7FC5A0}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{89801614-8DDC-4C11-91EB-39B71A7FC5A0}.Debug|x64.Build.0 = Debug|Any CPU
+		{89801614-8DDC-4C11-91EB-39B71A7FC5A0}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{89801614-8DDC-4C11-91EB-39B71A7FC5A0}.Debug|x86.Build.0 = Debug|Any CPU
+		{89801614-8DDC-4C11-91EB-39B71A7FC5A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89801614-8DDC-4C11-91EB-39B71A7FC5A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89801614-8DDC-4C11-91EB-39B71A7FC5A0}.Release|x64.ActiveCfg = Release|Any CPU
+		{89801614-8DDC-4C11-91EB-39B71A7FC5A0}.Release|x64.Build.0 = Release|Any CPU
+		{89801614-8DDC-4C11-91EB-39B71A7FC5A0}.Release|x86.ActiveCfg = Release|Any CPU
+		{89801614-8DDC-4C11-91EB-39B71A7FC5A0}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

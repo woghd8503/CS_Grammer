@@ -1,0 +1,15 @@
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\085_class_has-a\bin\Debug\net8.0\085_class_has-a.exe
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\085_class_has-a\bin\Debug\net8.0\085_class_has-a.deps.json
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\085_class_has-a\bin\Debug\net8.0\085_class_has-a.runtimeconfig.json
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\085_class_has-a\bin\Debug\net8.0\085_class_has-a.dll
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\085_class_has-a\bin\Debug\net8.0\085_class_has-a.pdb
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\085_class_has-a\obj\Debug\net8.0\085_class_has-a.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\085_class_has-a\obj\Debug\net8.0\085_class_has-a.AssemblyInfoInputs.cache
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\085_class_has-a\obj\Debug\net8.0\085_class_has-a.AssemblyInfo.cs
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\085_class_has-a\obj\Debug\net8.0\085_class_has-a.csproj.CoreCompileInputs.cache
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\085_class_has-a\obj\Debug\net8.0\085_class_has-a.sourcelink.json
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\085_class_has-a\obj\Debug\net8.0\085_class_has-a.dll
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\085_class_has-a\obj\Debug\net8.0\refint\085_class_has-a.dll
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\085_class_has-a\obj\Debug\net8.0\085_class_has-a.pdb
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\085_class_has-a\obj\Debug\net8.0\085_class_has-a.genruntimeconfig.cache
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\085_class_has-a\obj\Debug\net8.0\ref\085_class_has-a.dll
