@@ -1,0 +1,7 @@
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\088_struct\bin\Debug\088_struct.exe.config
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\088_struct\bin\Debug\088_struct.exe
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\088_struct\bin\Debug\088_struct.pdb
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\088_struct\obj\Debug\088_struct.csproj.AssemblyReference.cache
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\088_struct\obj\Debug\088_struct.csproj.CoreCompileInputs.cache
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\088_struct\obj\Debug\088_struct.exe
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\088_struct\obj\Debug\088_struct.pdb
