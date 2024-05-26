@@ -42,7 +42,68 @@ namespace _089_interface
         }
     }
 
-    
+    class BB : IAA, IBB
+    {
+        public void IAAPrint()
+        {
+            Console.WriteLine("class BB interface IAA에 IAAPrint() 재정의");
+        }
 
+        public void IBBPrint()
+        {
+            Console.WriteLine("class BB interface IBB에 IBBPrint() 재정의");
+        }
+    }
+
+    class CC : Super, IAA, IBB
+    {
+        public override void Print()
+        {
+            base.Print();
+            Console.WriteLine("class Super => Print() 재정의");
+        }
+
+        public void IAAPrint()
+        {
+            Console.WriteLine("class CC => interface IAA에 IAAPrint() 재정의");
+        }
+
+        public void IBBPrint()
+        {
+            Console.WriteLine("class CC interface IBB에 IBBPrint() 재정의");
+        }
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            AA aa = new AA();
+            aa.IAAPrint();
+
+            BB bb = new BB();
+            bb.IAAPrint();
+            bb.IBBPrint();
+
+            IAA Iaa = new AA();
+            Iaa.IAAPrint();
+
+            IBB Ibb = bb as IBB;
+            Ibb.IBBPrint();
+
+            CC cc = new CC();
+            cc.Print();
+            cc.IAAPrint();
+            cc.IBBPrint();
+
+            Super sCC = cc as Super;
+            sCC.Print();
+
+            IAA IAAcc = cc as IAA;
+            IAAcc.IAAPrint();
+
+            IBB IBBcc = cc as IBB;
+            IBBcc.IBBPrint();
+        }
+    }
 }
-

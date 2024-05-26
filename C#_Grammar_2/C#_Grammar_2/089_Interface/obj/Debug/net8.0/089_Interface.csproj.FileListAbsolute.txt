@@ -1,0 +1,15 @@
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\089_Interface\bin\Debug\net8.0\089_Interface.exe
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\089_Interface\bin\Debug\net8.0\089_Interface.deps.json
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\089_Interface\bin\Debug\net8.0\089_Interface.runtimeconfig.json
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\089_Interface\bin\Debug\net8.0\089_Interface.dll
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\089_Interface\bin\Debug\net8.0\089_Interface.pdb
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\089_Interface\obj\Debug\net8.0\089_Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\089_Interface\obj\Debug\net8.0\089_Interface.AssemblyInfoInputs.cache
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\089_Interface\obj\Debug\net8.0\089_Interface.AssemblyInfo.cs
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\089_Interface\obj\Debug\net8.0\089_Interface.csproj.CoreCompileInputs.cache
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\089_Interface\obj\Debug\net8.0\089_Interface.sourcelink.json
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\089_Interface\obj\Debug\net8.0\089_Interface.dll
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\089_Interface\obj\Debug\net8.0\refint\089_Interface.dll
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\089_Interface\obj\Debug\net8.0\089_Interface.pdb
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\089_Interface\obj\Debug\net8.0\089_Interface.genruntimeconfig.cache
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\089_Interface\obj\Debug\net8.0\ref\089_Interface.dll
