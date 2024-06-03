@@ -50,6 +50,8 @@ namespace _090_abstract
             AA aa = new AA();
             aa.abstractPrin();
             aa.virtualPrint();
+
+            //abstractAA aa = new AA(); //오류..
         }
     }
 }
