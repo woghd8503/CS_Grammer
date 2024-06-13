@@ -41,8 +41,26 @@ namespace _093_Check
         public void InputMath()
         {
             Console.WriteLine("수학 점수를 입력하세요?  ");
+            this.math = int.Parse(Console.ReadLine());
+        }
+
+        public void InputEng()
+        {
+            Console.Write("영어 점수를 입력하세요?  ");
+            this.eng = int.Parse(Console.ReadLine());
+        }
+
+        private void PrintID()
+        {
+            Console.WriteLine("학생 ID:  {0}", this.id);
+        }
+
+        public int GetTotal()
+        {
+            return kor + eng + math;
         }
     }
+
     class Program
     {
         static void Main(string[] args)
