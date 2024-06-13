@@ -63,8 +63,39 @@ namespace _093_Check
 
     class Program
     {
+        static void PrintID(CStudent[] arrStudents)
+        {
+            foreach (CStudent data in arrStudents)
+            {
+                data.PrintID();
+            }
+        }
+
+        static int CheckID(int id, CStudent[] arrStudents)
+        {
+            for(int i = 0; i < arrStudents.Length; i++)
+            {
+                if (id == arrStudents[i].ID)
+                    return i;
+            }
+
+            return -1;
+        }
+
         static void Main(string[] args)
         {
+            const int MAX = 3;
+            int inputSel = 0;
+            int selID = -1;
+
+            CStudent[] arrStudents = new CStudent[MAX];
+
+            for(int i = 0; i < MAX; i++) 
+            {
+                arrStudents[i] = new CStudent();
+                arrStudents[i].InputID();
+
+            }
         }
     }
 }
