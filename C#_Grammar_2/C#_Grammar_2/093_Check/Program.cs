@@ -94,7 +94,19 @@ namespace _093_Check
             {
                 arrStudents[i] = new CStudent();
                 arrStudents[i].InputID();
+                arrStudents[i].InPutKor();
+                arrStudents[i].InputMath();
+                arrStudents[i].InputEng();
 
+                Console.WriteLine();
+            }
+
+            Console.Clear();
+
+            while(true)
+            {
+                PrintID(arrStudents);
+                Console.Write("학생 아이디를 입력하세요? (0)나가기  ");
             }
         }
     }
