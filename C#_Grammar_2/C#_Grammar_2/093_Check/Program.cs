@@ -107,6 +107,17 @@ namespace _093_Check
             {
                 PrintID(arrStudents);
                 Console.Write("학생 아이디를 입력하세요? (0)나가기  ");
+                inputSel = int.Parse(Console.ReadLine());
+
+                if (inputSel == 0)
+                    break;
+
+                selID = CheckID(inputSel, arrStudents);
+
+                if(selID >= 0)
+                {
+                    Console.WriteLine("국어 점수: ");
+                }
             }
         }
     }
