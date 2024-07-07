@@ -29,10 +29,26 @@ namespace _094_Check
                 Console.Write("두번째 수를 입력 해주세요?");
             }
         }
+
+        public void PrintResult() 
+        {
+            Console.Write("{0} + {1} = {2}", number1, number2, (number1 + number2));
+            Console.WriteLine();
+        } 
     }
 
     public class Program
     {
+        static bool CheckEnd(int index)
+        {
+            var isEnd = false;
+            var temp = 0;
+
+            Console.Write("{0}번째 추가로 계산할까요(1: OK, 0: NO, 단 총 10번까지 가능)", (index + 1));
+
+            return isEnd;
+        }
+
         static void Main(string[] args)
         {
         }
