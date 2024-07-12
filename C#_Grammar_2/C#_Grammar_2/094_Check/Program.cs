@@ -45,12 +45,36 @@ namespace _094_Check
             var temp = 0;
 
             Console.Write("{0}번째 추가로 계산할까요(1: OK, 0: NO, 단 총 10번까지 가능)", (index + 1));
+            temp = int.Parse(Console.ReadLine());
+            isEnd = (temp == 0);
 
             return isEnd;
         }
 
         static void Main(string[] args)
         {
+            int indexCount = 0;
+            CSaveNumber[] saveNumbers = new CSaveNumber[10];
+
+            while(true)
+            {
+                saveNumbers[indexCount] = new CSaveNumber();
+                saveNumbers[indexCount].InputNumber(0);
+                saveNumbers[indexCount].InputNumber(1);
+
+                saveNumbers[indexCount].PrintResult();
+
+                indexCount++;
+
+                if(indexCount >= 10 || CheckEnd(indexCount))
+                {
+                    for(int i = 0; i < indexCount; i++)
+                    {
+                        saveNumbers[i].PrintResult();
+                    }
+                    break;
+                }
+            }
         }
     }
 }
