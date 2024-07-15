@@ -27,6 +27,7 @@ namespace _094_Check
             else
             {
                 Console.Write("두번째 수를 입력 해주세요?");
+                number2 = int.Parse(Console.ReadLine());
             }
         }
 
