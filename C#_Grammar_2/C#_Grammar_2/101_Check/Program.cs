@@ -34,7 +34,13 @@ namespace _101_Check
 
         public void InputKor()
         {
+            Console.Write("국어 점수를 입력하세요?  ");
+            this.kor = int.Parse(Console.ReadLine());
+        }
 
+        public void InputMath()
+        {
+            Console.Write("수학 점수를 입력하세요?  ");
         }
     }
     }
