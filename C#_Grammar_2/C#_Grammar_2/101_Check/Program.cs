@@ -41,8 +41,16 @@ namespace _101_Check
         public void InputMath()
         {
             Console.Write("수학 점수를 입력하세요?  ");
+            this.math = int.Parse(Console.ReadLine());
+        }
+
+        public void InputEng()
+        {
+            Console.Write("영어 점수를 입력하세요?  ");
+            this.eng = int.Parse(Console.ReadLine());
         }
     }
+
     }
     class Program
     {
