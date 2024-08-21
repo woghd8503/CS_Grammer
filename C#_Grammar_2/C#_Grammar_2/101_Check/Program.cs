@@ -1,4 +1,5 @@
-﻿using System;
+﻿using _101_Check;
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
@@ -50,6 +51,16 @@ namespace _101_Check
             Console.Write("영어 점수를 입력하세요?  ");
             this.eng = int.Parse(Console.ReadLine());
         }
+
+        public void PrintID()
+        {
+            Console.WriteLine("학생 ID:  {0}", this.id);
+        }
+
+        public int GetTotal()
+        {
+            return kor + eng + math;
+        }
     }
 
     }
@@ -59,7 +70,8 @@ namespace _101_Check
     {
         foreach(int key in hashTable.Keys)
         {
-
+            CStudent castData = (CStudent)hashTable[key];
+            castData.PrintID();
         }
     }
         static void Main(string[] args)
