@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -54,6 +55,13 @@ namespace _101_Check
     }
     class Program
     {
+    static void PrintID(Hashtable hashTable)
+    {
+        foreach(int key in hashTable.Keys)
+        {
+
+        }
+    }
         static void Main(string[] args)
         {
         }
