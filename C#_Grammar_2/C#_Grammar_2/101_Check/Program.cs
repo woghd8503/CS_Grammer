@@ -74,8 +74,29 @@ namespace _101_Check
             castData.PrintID();
         }
     }
-        static void Main(string[] args)
+    static int CheckID(int id, Hashtable hashTable)
+    {
+        if(hashTable.ContainsKey(id))
         {
+            return id;
         }
+
+        return -1;
+    }
+
+
+    static void Main(string[] args)
+    {
+        int inputSel = 0;
+        int selID = -1;
+
+        Hashtable hashStudents = new Hashtable();
+
+        while (true) 
+        {
+            PrintID(hashStudents);
+        }
+
+
     }
 }
