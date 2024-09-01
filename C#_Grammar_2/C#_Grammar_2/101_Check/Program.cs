@@ -3,6 +3,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -95,6 +96,18 @@ namespace _101_Check
         while (true) 
         {
             PrintID(hashStudents);
+            Console.Write("== 성적 입력중 == (0)나가기 ");
+            if (Console.ReadLine() == "0")
+                break;
+
+            CStudent temp = new CStudent();
+            temp.InputID();
+            temp.InputKor();
+            temp.InputMath();
+            temp.InputEng();
+
+            hashStudents.Add(temp.ID, temp);
+            Console.WriteLine();
         }
 
 
