@@ -64,12 +64,12 @@ namespace _101_Check
         }
     }
 
-    }
-    class Program
-    {
+}
+class Program
+{
     static void PrintID(Hashtable hashTable)
     {
-        foreach(int key in hashTable.Keys)
+        foreach (int key in hashTable.Keys)
         {
             CStudent castData = (CStudent)hashTable[key];
             castData.PrintID();
@@ -77,7 +77,7 @@ namespace _101_Check
     }
     static int CheckID(int id, Hashtable hashTable)
     {
-        if(hashTable.ContainsKey(id))
+        if (hashTable.ContainsKey(id))
         {
             return id;
         }
@@ -93,7 +93,7 @@ namespace _101_Check
 
         Hashtable hashStudents = new Hashtable();
 
-        while (true) 
+        while (true)
         {
             PrintID(hashStudents);
             Console.Write("== 성적 입력중 == (0)나가기 ");
@@ -110,6 +110,39 @@ namespace _101_Check
             Console.WriteLine();
         }
 
+        Console.Clear();
 
+        while (true)
+        {
+            PrintID(hashStudents);
+            Console.Write("학생 아이디를 입력하세요? (0)나가기  ");
+            inputSel = int.Parse(Console.ReadLine());
+
+            if (inputSel == 0)
+            {
+                break;
+            }
+
+
+            selID = CheckID(inputSel, hashStudents);
+
+            if (selID == 0)
+            {
+                CStudent selCStudent = (CStudent)hashStudents[selID];
+                Console.WriteLine("국어 점수:  {0}", selCStudent.KOR);
+                Console.WriteLine("수학 점수:  {0}", selCStudent.MATH);
+                Console.WriteLine("영어 점수:  {0}", selCStudent.ENG);
+
+                int total = selCStudent.GetTotal();
+
+                Console.WriteLine("총점:  {0}", total);
+                Console.WriteLine("평균:  {0}", total / hashStudents.Count);
+                Console.WriteLine();
+            }
+            else
+            {
+                Console.WriteLine("학생 아이디가 없어요. 다시 입력하세요");
+            }
+        }
     }
 }
