@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 /*-----------------------------------------------------------------------------
- * Name; _103_GenericFunc
+ * Name; 104_GenericClass
  * DESC: 일반화 함수 기초
 -----------------------------------------------------------------------------*/
 namespace _104_GenericClass
