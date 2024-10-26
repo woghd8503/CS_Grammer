@@ -13,9 +13,14 @@ namespace _113_throw
 {
     class Program
     {
-        static void Main(string[] args)
+        static void ThrowFunc(int data)
         {
 
+        }
+
+        static void Main(string[] args)
+        {
+            //if(DataMisalignedException > )
         }
     }
 }
