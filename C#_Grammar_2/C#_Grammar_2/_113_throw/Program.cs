@@ -18,6 +18,7 @@ namespace _113_throw
 
         }
 
+
         static void Main(string[] args)
         {
             //if(DataMisalignedException > )
