@@ -23,9 +23,42 @@ namespace _113_throw
                 throw new Exception("data에 0이 입력되었습니다.");
             }
         }
+
+        static int ThrowDivision(int a, int b)
+        {
+            if(a > 0 && b > 0)
+            {
+                return a / b;
+            }
+            else
+            {
+                throw new Exception("0보다 작은 값은 불가합니다.");
+            }
+        }
         static void Main(string[] args)
         {
+            try
+            {
+                ThrowFunc(10);
+                ThrowFunc(100);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
 
+            try
+            {
+                ThrowFunc(0);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
+            finally
+            {
+                Console.WriteLine("  finally 무조건 실행  ");
+            }
         }
     }
 }
