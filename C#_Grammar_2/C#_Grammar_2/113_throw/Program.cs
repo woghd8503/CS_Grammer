@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
 /*-----------------------------------------------------------------------------
@@ -41,6 +42,8 @@ namespace _113_throw
             {
                 ThrowFunc(10);
                 ThrowFunc(100);
+                ThrowFunc(0);
+                ThrowFunc(1000);
             }
             catch (Exception e)
             {
@@ -49,15 +52,36 @@ namespace _113_throw
 
             try
             {
-                ThrowFunc(0);
+                Console.WriteLine("100/20: " + ThrowDivision(100, 20));
+                Console.WriteLine("10/5: " + ThrowDivision(10, 5));
+                Console.WriteLine("10/0: " + ThrowDivision(10, 0));
+                Console.WriteLine("100/100: " + ThrowDivision(100, 100));
             }
             catch (Exception e)
             {
                 Console.WriteLine(e.Message);
             }
-            finally
+
+            // ?, ??
+            int? a = null;
+            try
             {
-                Console.WriteLine("  finally 무조건 실행  ");
+                int b = a ?? throw new ArgumentNullException();
+            }
+            catch (ArgumentNullException e)
+            {
+                Console.WriteLine(e.Message);
+            }
+
+            // ? :
+            int result = 0;
+            try
+            {
+                int checkNum = (result < 100) ? result : throw new Exception("100 이하만 가능");
+            }
+            catch(Exception e)
+            {
+                Console.WriteLine(e.Message);
             }
         }
     }
