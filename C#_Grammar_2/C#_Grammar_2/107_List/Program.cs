@@ -14,7 +14,7 @@ namespace _107_List
     {
         static void Main(string[] args)
         {
-            List<int> list = new List<int>();
+            List<int> ListAA = new List<int>();
             ListAA.Add(1);
             ListAA.Add(2);
 
