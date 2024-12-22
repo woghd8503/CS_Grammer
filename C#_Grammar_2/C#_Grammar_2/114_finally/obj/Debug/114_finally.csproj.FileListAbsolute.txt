@@ -1,0 +1,7 @@
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\114_finally\bin\Debug\114_finally.exe.config
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\114_finally\bin\Debug\114_finally.exe
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\114_finally\bin\Debug\114_finally.pdb
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\114_finally\obj\Debug\114_finally.csproj.AssemblyReference.cache
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\114_finally\obj\Debug\114_finally.csproj.CoreCompileInputs.cache
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\114_finally\obj\Debug\114_finally.exe
+D:\Studying\C#_Unity\CloneC#\C#_Grammar_2\C#_Grammar_2\114_finally\obj\Debug\114_finally.pdb
