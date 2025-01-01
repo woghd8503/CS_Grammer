@@ -10,8 +10,22 @@ using System.Threading.Tasks;
 -----------------------------------------------------------------------------*/
 namespace _115_CustomException
 {
+    class MyException : ApplicationException
+    {
+        public int Num { get; set; }
+        public MyException() : base()
+        {
+
+        }
+
+        public override string ToString()
+        {
+            return "Num: " + Num;
+        }
+    }
     class Program
     {
+
         static void Main(string[] args)
         {
 
