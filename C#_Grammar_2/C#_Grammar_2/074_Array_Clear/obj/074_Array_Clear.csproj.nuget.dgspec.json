@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Studying\\C#_Unity\\CloneC#\\C#_Grammar_2\\C#_Grammar_2\\074_Array_Clear\\074_Array_Clear.csproj": {}
+    "D:\\Studying\\C#_UnityTest\\C#_Grammar_2\\C#_Grammar_2\\074_Array_Clear\\074_Array_Clear.csproj": {}
   },
   "projects": {
-    "D:\\Studying\\C#_Unity\\CloneC#\\C#_Grammar_2\\C#_Grammar_2\\074_Array_Clear\\074_Array_Clear.csproj": {
+    "D:\\Studying\\C#_UnityTest\\C#_Grammar_2\\C#_Grammar_2\\074_Array_Clear\\074_Array_Clear.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Studying\\C#_Unity\\CloneC#\\C#_Grammar_2\\C#_Grammar_2\\074_Array_Clear\\074_Array_Clear.csproj",
+        "projectUniqueName": "D:\\Studying\\C#_UnityTest\\C#_Grammar_2\\C#_Grammar_2\\074_Array_Clear\\074_Array_Clear.csproj",
         "projectName": "074_Array_Clear",
-        "projectPath": "D:\\Studying\\C#_Unity\\CloneC#\\C#_Grammar_2\\C#_Grammar_2\\074_Array_Clear\\074_Array_Clear.csproj",
+        "projectPath": "D:\\Studying\\C#_UnityTest\\C#_Grammar_2\\C#_Grammar_2\\074_Array_Clear\\074_Array_Clear.csproj",
         "packagesPath": "C:\\Users\\woghd\\.nuget\\packages\\",
-        "outputPath": "D:\\Studying\\C#_Unity\\CloneC#\\C#_Grammar_2\\C#_Grammar_2\\074_Array_Clear\\obj\\",
+        "outputPath": "D:\\Studying\\C#_UnityTest\\C#_Grammar_2\\C#_Grammar_2\\074_Array_Clear\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\woghd\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
