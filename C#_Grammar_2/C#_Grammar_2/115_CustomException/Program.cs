@@ -15,7 +15,10 @@ namespace _115_CustomException
         public int Num { get; set; }
         public MyException() : base()
         {
-
+        }
+        public MyException(int a)
+        {
+            Num = a;
         }
 
         public override string ToString()
@@ -25,10 +28,31 @@ namespace _115_CustomException
     }
     class Program
     {
-
         static void Main(string[] args)
         {
+            string readStr = Console.ReadLine();
+            try
+            {
+                int num = int.Parse(readStr);
 
+                if(num == 0 || num == 10)
+                {
+                    throw new MyException(num);
+                }
+            }
+            catch(MyException e) when(e.Num == 0)
+            {
+                Console.WriteLine("when(e.Num == 0)");
+                Console.WriteLine("MyException: " + e.Num);
+                Console.WriteLine("MyException: " + e.StackTrace);
+            }
+            catch(MyException e) when(e.Num == 10)
+            {
+                Console.WriteLine("When(e.Num == 10)");
+                Console.WriteLine("MyException: " + e.Num);
+                Console.WriteLine("MyException: " + e.ToString());
+                Console.WriteLine("MyException: " + e.StackTrace);
+            }
         }
     }
 }
