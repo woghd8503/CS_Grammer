@@ -1,0 +1,7 @@
+D:\Studying\C#_UnityTest\C#_Grammar_2\C#_Grammar_2\115_CustomException\bin\Debug\115_CustomException.exe.config
+D:\Studying\C#_UnityTest\C#_Grammar_2\C#_Grammar_2\115_CustomException\bin\Debug\115_CustomException.exe
+D:\Studying\C#_UnityTest\C#_Grammar_2\C#_Grammar_2\115_CustomException\bin\Debug\115_CustomException.pdb
+D:\Studying\C#_UnityTest\C#_Grammar_2\C#_Grammar_2\115_CustomException\obj\Debug\115_CustomException.csproj.AssemblyReference.cache
+D:\Studying\C#_UnityTest\C#_Grammar_2\C#_Grammar_2\115_CustomException\obj\Debug\115_CustomException.csproj.CoreCompileInputs.cache
+D:\Studying\C#_UnityTest\C#_Grammar_2\C#_Grammar_2\115_CustomException\obj\Debug\115_CustomException.exe
+D:\Studying\C#_UnityTest\C#_Grammar_2\C#_Grammar_2\115_CustomException\obj\Debug\115_CustomException.pdb
