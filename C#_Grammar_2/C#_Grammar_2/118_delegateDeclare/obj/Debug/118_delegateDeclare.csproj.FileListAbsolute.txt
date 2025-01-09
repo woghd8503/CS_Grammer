@@ -1,0 +1,7 @@
+D:\Studying\C#_UnityTest\C#_Grammar_2\C#_Grammar_2\118_delegateDeclare\bin\Debug\118_delegateDeclare.exe.config
+D:\Studying\C#_UnityTest\C#_Grammar_2\C#_Grammar_2\118_delegateDeclare\bin\Debug\118_delegateDeclare.exe
+D:\Studying\C#_UnityTest\C#_Grammar_2\C#_Grammar_2\118_delegateDeclare\bin\Debug\118_delegateDeclare.pdb
+D:\Studying\C#_UnityTest\C#_Grammar_2\C#_Grammar_2\118_delegateDeclare\obj\Debug\118_delegateDeclare.csproj.AssemblyReference.cache
+D:\Studying\C#_UnityTest\C#_Grammar_2\C#_Grammar_2\118_delegateDeclare\obj\Debug\118_delegateDeclare.csproj.CoreCompileInputs.cache
+D:\Studying\C#_UnityTest\C#_Grammar_2\C#_Grammar_2\118_delegateDeclare\obj\Debug\118_delegateDeclare.exe
+D:\Studying\C#_UnityTest\C#_Grammar_2\C#_Grammar_2\118_delegateDeclare\obj\Debug\118_delegateDeclare.pdb
