@@ -17,6 +17,24 @@ namespace _118_delegateParam
         delegateFunc CallOkFunc;
         delegateFunc CallCancelFunc;
 
+        public void Message(string msg, delegateFunc okFunc, delegateFunc cancelFunc)
+        {
+            CallOkFunc = okFunc;
+            CallCancelFunc = cancelFunc;
+
+            Console.WriteLine("Message: " + msg + " (0: 0k,  1: cancel)");
+            
+            string inputStr = Console.ReadLine();
+
+            if(inputStr.Equals("0"))
+            {
+                cancelFunc();
+            }
+            else
+            {
+
+            }
+        }
         static void Main(string[] args)
         {
         }
